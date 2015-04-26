@@ -153,7 +153,7 @@ public class Purchasing
         }
 
         // return PO-ACK
-        //return writer.toString();
+        return writer.toString();
     }
 
 
