@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<soapenv:Body>
+		<ItemSearch xmlns="http://webservices.amazon.com/AWSECommerceService/2006-02-15">
+			<SubscriptionId>0PSS84CX07V6C92RE8G2</SubscriptionId>
+			<Request>
+				<Keywords>0130092290 | 0201740958 | 0735611831 | 0764543814</Keywords>
+				<ResponseGroup>Large</ResponseGroup>
+				<SearchIndex>Books</SearchIndex>
+			</Request>
+		</ItemSearch>
+	</soapenv:Body>
+</soapenv:Envelope>

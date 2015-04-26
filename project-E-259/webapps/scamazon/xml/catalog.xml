@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Scamazon.com's catalog -->
+
+<!-- Any references to the local filesystem are resolved
+     with respect to project4-8.0/. -->
+
+<items>
+  <item key="i00042">
+    <category>Team Sports</category>
+    <name>Baseball</name>
+    <description>Regulation wooden bat</description>
+    <image>00042.jpg</image>
+    <types label="Type">
+      <type key="t5635853">
+        <descriptor>Tee Ball</descriptor>
+        <price>18.00</price>
+      </type>
+      <type key="t1933042">
+        <descriptor>Little League</descriptor>
+        <price>20.00</price>
+      </type>
+      <type key="t8087405">
+        <descriptor>Softball Pro</descriptor>
+        <price>22.00</price>
+      </type>
+      <type key="t5850093">
+        <descriptor>Baseball Pro</descriptor>
+        <price>25.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00043">
+    <category>Team Sports</category>
+    <name>Baseball</name>
+    <description>Batter's Cap</description>
+    <image>00043.jpg</image>
+    <types label="Size">
+      <type key="t4798730">
+        <descriptor>XS</descriptor>
+        <price>10.00</price>
+      </type>
+      <type key="t3502915">
+        <descriptor>S</descriptor>
+        <price>12.00</price>
+      </type>
+      <type key="t8959624">
+        <descriptor>M</descriptor>
+        <price>15.00</price>
+      </type>
+      <type key="t8228401">
+        <descriptor>L</descriptor>
+        <price>16.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00044">
+    <category>Recreational</category>
+    <name>Archery</name>
+    <description>Target Set</description>
+    <image>00044.jpg</image>
+    <types label="Style">
+      <type key="t7466048">
+        <descriptor>Tournament</descriptor>
+        <price>35.00</price>
+      </type>
+      <type key="t1741081">
+        <descriptor>Recreational</descriptor>
+        <price>30.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00045">
+    <category>Recreational</category>
+    <name>Bicycling</name>
+    <description>Touring Bike</description>
+    <image>00045.jpg</image>
+    <types label="Type">
+      <type key="t8589434">
+        <descriptor>10-speed</descriptor>
+        <price>220.00</price>
+      </type>
+      <type key="t7105014">
+        <descriptor>12-speed</descriptor>
+        <price>250.00</price>
+      </type>
+      <type key="t5135350">
+        <descriptor>20-speed</descriptor>
+        <price>300.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00046">
+    <category>Leisure Sports</category>
+    <name>Golf</name>
+    <description>Putter Set</description>
+    <image>00046.jpg</image>
+    <types label="Style">
+      <type key="t914029">
+        <descriptor>Steel</descriptor>
+        <price>190.00</price>
+      </type>
+      <type key="t3644520">
+        <descriptor>Silver-tipped</descriptor>
+        <price>230.00</price>
+      </type>
+      <type key="t1473128">
+        <descriptor>Titanium</descriptor>
+        <price>270.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00047">
+    <category>Leisure Sports</category>
+    <name>Bowling</name>
+    <description>Bowling Shoes</description>
+    <image>00047.jpg</image>
+    <types label="Size">
+      <type key="t1658986">
+        <descriptor>S</descriptor>
+        <price>80.00</price>
+      </type>
+      <type key="t9885250">
+        <descriptor>M</descriptor>
+        <price>90.00</price>
+      </type>
+      <type key="t4456923">
+        <descriptor>L</descriptor>
+        <price>100.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00048">
+    <category>Miscellaneous</category>
+    <name>Ping-Pong</name>
+    <description>Paddle Set</description>
+    <image>00048.jpg</image>
+    <types label="Type">
+      <type key="t1190832">
+        <descriptor>2-person Blue</descriptor>
+        <price>50.00</price>
+      </type>
+      <type key="t46693">
+        <descriptor>2-person Red</descriptor>
+        <price>55.00</price>
+      </type>
+      <type key="t89114">
+        <descriptor>4-person Black</descriptor>
+        <price>75.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00005">
+    <category>Uniforms</category>
+    <name>Basketball</name>
+    <description>Standard basketball uniform</description>
+    <image>00005.jpg</image>
+    <types label="Size">
+      <type key="t12513">
+        <descriptor>S</descriptor>
+        <price>21.00</price>
+      </type>
+      <type key="t5635853">
+        <descriptor>XXL</descriptor>
+        <price>25.00</price>
+      </type>
+      <type key="t1933042">
+        <descriptor>XL</descriptor>
+        <price>25.00</price>
+      </type>
+      <type key="t8087405">
+        <descriptor>M</descriptor>
+        <price>22.00</price>
+      </type>
+      <type key="t5850093">
+        <descriptor>XS</descriptor>
+        <price>20.00</price>
+      </type>
+      <type key="t4798730">
+        <descriptor>L</descriptor>
+        <price>23.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00006">
+    <category>Indoor Games</category>
+    <name>Checkers</name>
+    <description>Standard Checker Set</description>
+    <image>00006.jpg</image>
+    <types label="Style">
+      <type key="t3502915">
+        <descriptor>Monogrammed</descriptor>
+        <price>115.00</price>
+      </type>
+      <type key="t8959624">
+        <descriptor>Standard</descriptor>
+        <price>65.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00010">
+    <category>Indoor Games</category>
+    <name>Pool</name>
+    <description>Full Pool Ball Set</description>
+    <image>00010.jpg</image>
+    <types label="Style">
+      <type key="t8228401">
+        <descriptor>Recreation Grade</descriptor>
+        <price>115.00</price>
+      </type>
+      <type key="t7466048">
+        <descriptor>Tournament Grade</descriptor>
+        <price>185.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00011">
+    <category>Recreational</category>
+    <name>Biking</name>
+    <description>Tandem Bicycle</description>
+    <image>00011.jpg</image>
+    <types label="Style">
+      <type key="t1741081">
+        <descriptor>20-speed touring</descriptor>
+        <price>340.00</price>
+      </type>
+      <type key="t8589434">
+        <descriptor>12-speed touring</descriptor>
+        <price>280.00</price>
+      </type>
+      <type key="t7105014">
+        <descriptor>12-speed mountain</descriptor>
+        <price>390.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00013">
+    <category>Recreational</category>
+    <name>Croquet</name>
+    <description>Croquet Set</description>
+    <image>00013.jpg</image>
+    <types label="Style">
+      <type key="t5135350">
+        <descriptor>Standard Full</descriptor>
+        <price>90.00</price>
+      </type>
+      <type key="t3039949">
+        <descriptor>Tournament Full</descriptor>
+        <price>110.00</price>
+      </type>
+      <type key="t149846">
+        <descriptor>Standard Half Game</descriptor>
+        <price>45.00</price>
+      </type>
+      <type key="t914029">
+        <descriptor>Tournament Half Game</descriptor>
+        <price>55.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00014">
+    <category>Recreational</category>
+    <name>Ice Skating</name>
+    <description>Women's Ice Skates</description>
+    <image>00014.jpg</image>
+    <types label="Size">
+      <type key="t3644520">
+        <descriptor>S</descriptor>
+        <price>90.00</price>
+      </type>
+      <type key="t1473128">
+        <descriptor>M</descriptor>
+        <price>90.00</price>
+      </type>
+      <type key="t1658986">
+        <descriptor>L</descriptor>
+        <price>90.00</price>
+      </type>
+      <type key="t9885250">
+        <descriptor>XS</descriptor>
+        <price>90.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00015">
+    <category>Recreational</category>
+    <name>Biking</name>
+    <description>Racing Bike</description>
+    <image>00015.jpg</image>
+    <types label="Style">
+      <type key="t4456923">
+        <descriptor>12-speed mountain</descriptor>
+        <price>365.00</price>
+      </type>
+      <type key="t1190832">
+        <descriptor>20-speed touring</descriptor>
+        <price>385.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00016">
+    <category>Water Sports</category>
+    <name>Swimming</name>
+    <description>Olympic Stopwatch/Timer</description>
+    <image>00016.jpg</image>
+    <types label="Color">
+      <type key="t46693">
+        <descriptor>Red</descriptor>
+        <price>30.00</price>
+      </type>
+      <type key="t89114">
+        <descriptor>Green</descriptor>
+        <price>30.00</price>
+      </type>
+      <type key="t3778802">
+        <descriptor>Blue</descriptor>
+        <price>30.00</price>
+      </type>
+      <type key="t5316630">
+        <descriptor>Yellow</descriptor>
+        <price>30.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00017">
+    <category>Water Sports</category>
+    <name>Kayaking</name>
+    <description>Single Person Kayak</description>
+    <image>00017.jpg</image>
+    <types label="Color">
+      <type key="t5711844">
+        <descriptor>Blue</descriptor>
+        <price>145.00</price>
+      </type>
+      <type key="t6017640">
+        <descriptor>Yellow</descriptor>
+        <price>145.00</price>
+      </type>
+      <type key="t6071657">
+        <descriptor>Orange</descriptor>
+        <price>145.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00018">
+    <category>Water Sports</category>
+    <name>Scuba Diving</name>
+    <description>Diving Suit</description>
+    <image>00018.jpg</image>
+    <types label="Size">
+      <type key="t1662343">
+        <descriptor>M</descriptor>
+        <price>85.00</price>
+      </type>
+      <type key="t6630451">
+        <descriptor>L</descriptor>
+        <price>85.00</price>
+      </type>
+      <type key="t4507889">
+        <descriptor>S</descriptor>
+        <price>85.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00019">
+    <category>Water Sports</category>
+    <name>Scuba Diving</name>
+    <description>Regulation Air Tank</description>
+    <image>00019.jpg</image>
+    <types label="Tolerance">
+      <type key="t3521226">
+        <descriptor>&lt; 2500 feet</descriptor>
+        <price>145.00</price>
+      </type>
+      <type key="t570391">
+        <descriptor>&gt; 2500 feet</descriptor>
+        <price>180.00</price>
+      </type>
+      <type key="t6076846">
+        <descriptor>&lt; 500 feet</descriptor>
+        <price>115.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00020">
+    <category>Water Sports</category>
+    <name>Water Skiing</name>
+    <description>Regulation Water Skis</description>
+    <image>00020.jpg</image>
+    <types label="Boot Size">
+      <type key="t7833186">
+        <descriptor>L</descriptor>
+        <price>115.00</price>
+      </type>
+      <type key="t8026063">
+        <descriptor>XS</descriptor>
+        <price>115.00</price>
+      </type>
+      <type key="t5198828">
+        <descriptor>S</descriptor>
+        <price>115.00</price>
+      </type>
+      <type key="t3019501">
+        <descriptor>M</descriptor>
+        <price>115.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00021">
+    <category>Winter Sports</category>
+    <name>Skiing</name>
+    <description>Tournament Skis</description>
+    <image>00021.jpg</image>
+    <types label="Boot Size">
+      <type key="t8759728">
+        <descriptor>S</descriptor>
+        <price>160.00</price>
+      </type>
+      <type key="t7266762">
+        <descriptor>XS</descriptor>
+        <price>160.00</price>
+      </type>
+      <type key="t9559008">
+        <descriptor>L</descriptor>
+        <price>160.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00022">
+    <category>Winter Sports</category>
+    <name>Snowboarding</name>
+    <description>Stunt Board</description>
+    <image>00022.jpg</image>
+    <types label="Boot Size">
+      <type key="t9257179">
+        <descriptor>S</descriptor>
+        <price>130.00</price>
+      </type>
+      <type key="t5393536">
+        <descriptor>M</descriptor>
+        <price>130.00</price>
+      </type>
+      <type key="t1423383">
+        <descriptor>L</descriptor>
+        <price>130.00</price>
+      </type>
+      <type key="t4620808">
+        <descriptor>XS</descriptor>
+        <price>130.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00023">
+    <category>Winter Sports</category>
+    <name>Snowboarding</name>
+    <description>Tournament Board</description>
+    <image>00023.jpg</image>
+    <types label="Boot Size">
+      <type key="t2353282">
+        <descriptor>M</descriptor>
+        <price>175.00</price>
+      </type>
+      <type key="t8622394">
+        <descriptor>L</descriptor>
+        <price>175.00</price>
+      </type>
+      <type key="t2096011">
+        <descriptor>XS</descriptor>
+        <price>175.00</price>
+      </type>
+      <type key="t7796564">
+        <descriptor>S</descriptor>
+        <price>175.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00024">
+    <category>Winter Sports</category>
+    <name>Skiing</name>
+    <description>Inline Ski</description>
+    <image>00024.jpg</image>
+    <types label="Boot Size">
+      <type key="t8436537">
+        <descriptor>L</descriptor>
+        <price>110.00</price>
+      </type>
+      <type key="t9967956">
+        <descriptor>S</descriptor>
+        <price>110.00</price>
+      </type>
+      <type key="t9996948">
+        <descriptor>XS</descriptor>
+        <price>110.00</price>
+      </type>
+      <type key="t6114994">
+        <descriptor>M</descriptor>
+        <price>110.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00025">
+    <category>Winter Sports</category>
+    <name>Hockey</name>
+    <description>Hockey Skates</description>
+    <image>00025.jpg</image>
+    <types label="Size">
+      <type key="t3924375">
+        <descriptor>XL</descriptor>
+        <price>145.00</price>
+      </type>
+      <type key="t2662130">
+        <descriptor>L</descriptor>
+        <price>145.00</price>
+      </type>
+      <type key="t2972808">
+        <descriptor>M</descriptor>
+        <price>145.00</price>
+      </type>
+      <type key="t8401440">
+        <descriptor>XS</descriptor>
+        <price>145.00</price>
+      </type>
+      <type key="t237434">
+        <descriptor>S</descriptor>
+        <price>145.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00026">
+    <category>Winter Sports</category>
+    <name>Hockey</name>
+    <description>Stick and Puck Set</description>
+    <image>00026.jpg</image>
+    <types label="Style">
+      <type key="t3758660">
+        <descriptor>Recreational</descriptor>
+        <price>90.00</price>
+      </type>
+      <type key="t926237">
+        <descriptor>Tournament</descriptor>
+        <price>150.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00027">
+    <category>Street Sports</category>
+    <name>Inline Skating</name>
+    <description>Adult Inline Skates</description>
+    <image>00027.jpg</image>
+    <types label="Size">
+      <type key="t6772057">
+        <descriptor>L</descriptor>
+        <price>110.00</price>
+      </type>
+      <type key="t562151">
+        <descriptor>XL</descriptor>
+        <price>110.00</price>
+      </type>
+      <type key="t87893">
+        <descriptor>M</descriptor>
+        <price>110.00</price>
+      </type>
+      <type key="t9187902">
+        <descriptor>S</descriptor>
+        <price>110.00</price>
+      </type>
+      <type key="t2758873">
+        <descriptor>XS</descriptor>
+        <price>110.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00028">
+    <category>Street Sports</category>
+    <name>Roller Skating</name>
+    <description>Childrens Roller Skates</description>
+    <image>00028.jpg</image>
+    <types label="Size">
+      <type key="t2728965">
+        <descriptor>XL</descriptor>
+        <price>85.00</price>
+      </type>
+      <type key="t5879086">
+        <descriptor>L</descriptor>
+        <price>85.00</price>
+      </type>
+      <type key="t6911832">
+        <descriptor>M</descriptor>
+        <price>85.00</price>
+      </type>
+      <type key="t8376110">
+        <descriptor>S</descriptor>
+        <price>85.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00029">
+    <category>Street Sports</category>
+    <name>Skateboarding</name>
+    <description>Champion Skateboard</description>
+    <image>00029.jpg</image>
+    <types label="Style">
+      <type key="t7264931">
+        <descriptor>Chilling Blue</descriptor>
+        <price>105.00</price>
+      </type>
+      <type key="t4849391">
+        <descriptor>Neon Glow</descriptor>
+        <price>105.00</price>
+      </type>
+      <type key="t2053591">
+        <descriptor>Flashy Red</descriptor>
+        <price>105.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00030">
+    <category>Street Sports</category>
+    <name>Racquetball</name>
+    <description>Regulation Racquetballs</description>
+    <image>00030.jpg</image>
+    <types label="Color">
+      <type key="t7437361">
+        <descriptor>Yellow</descriptor>
+        <price>4.50</price>
+      </type>
+      <type key="t4684591">
+        <descriptor>Green</descriptor>
+        <price>4.50</price>
+      </type>
+      <type key="t4579608">
+        <descriptor>Purple</descriptor>
+        <price>4.50</price>
+      </type>
+      <type key="t9491562">
+        <descriptor>Blue</descriptor>
+        <price>4.50</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00031">
+    <category>World Sports</category>
+    <name>Soccer</name>
+    <description>Referee Flag Set</description>
+    <image>00031.jpg</image>
+    <types label="Style">
+      <type key="t7444380">
+        <descriptor>Regulation</descriptor>
+        <price>30.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00032">
+    <category>World Sports</category>
+    <name>Soccer</name>
+    <description>Soccer Balls</description>
+    <image>00032.jpg</image>
+    <types label="Style">
+      <type key="t1082797">
+        <descriptor>Standard</descriptor>
+        <price>15.00</price>
+      </type>
+      <type key="t5990478">
+        <descriptor>Regulation</descriptor>
+        <price>25.00</price>
+      </type>
+      <type key="t3852351">
+        <descriptor>Scrimmage</descriptor>
+        <price>20.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00033">
+    <category>World Sports</category>
+    <name>Lacrosse</name>
+    <description>Standard Lacrosse Set</description>
+    <image>00033.jpg</image>
+    <types label="Style">
+      <type key="t7350078">
+        <descriptor>Plastic handles</descriptor>
+        <price>65.00</price>
+      </type>
+      <type key="t6089663">
+        <descriptor>Wood handles</descriptor>
+        <price>85.00</price>
+      </type>
+      <type key="t5724052">
+        <descriptor>Metal handles</descriptor>
+        <price>75.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00034">
+    <category>World Sports</category>
+    <name>Curling</name>
+    <description>Curling Set</description>
+    <image>00034.jpg</image>
+    <types label="Style">
+      <type key="t3613392">
+        <descriptor>Plastic</descriptor>
+        <price>90.00</price>
+      </type>
+      <type key="t1515549">
+        <descriptor>Metal</descriptor>
+        <price>140.00</price>
+      </type>
+      <type key="t2251045">
+        <descriptor>Wood</descriptor>
+        <price>190.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00035">
+    <category>Varsity Sports</category>
+    <name>Baseball</name>
+    <description>Catcher's Glove</description>
+    <image>00035.jpg</image>
+    <types label="Size">
+      <type key="t4251534">
+        <descriptor>M</descriptor>
+        <price>45.00</price>
+      </type>
+      <type key="t8028809">
+        <descriptor>S</descriptor>
+        <price>45.00</price>
+      </type>
+      <type key="t5171056">
+        <descriptor>L</descriptor>
+        <price>45.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00036">
+    <category>Varsity Sports</category>
+    <name>Basketball</name>
+    <description>Goal Set</description>
+    <image>00036.jpg</image>
+    <types label="Style">
+      <type key="t9899899">
+        <descriptor>Children's Height</descriptor>
+        <price>120.00</price>
+      </type>
+      <type key="t7515488">
+        <descriptor>Regulation Height</descriptor>
+        <price>190.00</price>
+      </type>
+      <type key="t3455611">
+        <descriptor>Standard Height</descriptor>
+        <price>150.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00037">
+    <category>Varsity Sports</category>
+    <name>Football</name>
+    <description>Regulation Football</description>
+    <image>00037.jpg</image>
+    <types label="Style">
+      <type key="t1689810">
+        <descriptor>with Kickoff Tee</descriptor>
+        <price>29.00</price>
+      </type>
+      <type key="t6573077">
+        <descriptor>without Kickoff Tee</descriptor>
+        <price>20.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00038">
+    <category>Varsity Sports</category>
+    <name>Tennis</name>
+    <description>Tennis Rackets</description>
+    <image>00038.jpg</image>
+    <types label="Size">
+      <type key="t4918973">
+        <descriptor>Tournament</descriptor>
+        <price>110.00</price>
+      </type>
+      <type key="t635395">
+        <descriptor>Standard</descriptor>
+        <price>90.00</price>
+      </type>
+      <type key="t6997589">
+        <descriptor>Childrens</descriptor>
+        <price>50.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00039">
+    <category>Leisure Sports</category>
+    <name>Bowling</name>
+    <description>Bowling Pin Set</description>
+    <image>00039.jpg</image>
+    <types label="Style">
+      <type key="t5048067">
+        <descriptor>Champion</descriptor>
+        <price>190.00</price>
+      </type>
+      <type key="t1474960">
+        <descriptor>Traditional</descriptor>
+        <price>160.00</price>
+      </type>
+      <type key="t9495834">
+        <descriptor>Plastic</descriptor>
+        <price>40.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00040">
+    <category>Leisure Sports</category>
+    <name>Golf</name>
+    <description>Golf Clubs and Bag</description>
+    <image>00040.jpg</image>
+    <types label="Bag Color">
+      <type key="t1415754">
+        <descriptor>Blue</descriptor>
+        <price>210.00</price>
+      </type>
+      <type key="t9051180">
+        <descriptor>Black</descriptor>
+        <price>210.00</price>
+      </type>
+      <type key="t6928922">
+        <descriptor>Brown</descriptor>
+        <price>210.00</price>
+      </type>
+    </types>
+  </item>
+  <item key="i00041">
+    <category>Leisure Sports</category>
+    <name>Fishing</name>
+    <description>Tackle Bag</description>
+    <image>00041.jpg</image>
+    <types label="Color">
+      <type key="t3030488">
+        <descriptor>Black</descriptor>
+        <price>50.00</price>
+      </type>
+      <type key="t4265572">
+        <descriptor>Camoflauge</descriptor>
+        <price>50.00</price>
+      </type>
+      <type key="t703757">
+        <descriptor>Brown</descriptor>
+        <price>50.00</price>
+      </type>
+    </types>
+  </item>
+</items>

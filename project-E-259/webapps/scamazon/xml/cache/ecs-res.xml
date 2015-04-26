@@ -1,0 +1,1738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<SOAP-ENV:Body>
+		<ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2006-02-15">
+			<OperationRequest>
+				<HTTPHeaders>
+					<Header Name="UserAgent" Value="Axis/1.3"></Header>
+				</HTTPHeaders>
+				<RequestId>1CPTY5EEEVBBK7ZR6PDT</RequestId>
+				<Arguments>
+					<Argument Name="Service" Value="AWSECommerceService"></Argument>
+				</Arguments>
+				<RequestProcessingTime>0.401244878768921</RequestProcessingTime>
+			</OperationRequest>
+			<Items>
+				<Request>
+					<IsValid>True</IsValid>
+					<ItemSearchRequest>
+						<Keywords>0130092290 | 0201740958 | 0735611831 | 0764543814</Keywords>
+						<ResponseGroup>Large</ResponseGroup>
+						<SearchIndex>Books</SearchIndex>
+					</ItemSearchRequest>
+				</Request>
+				<TotalResults>4</TotalResults>
+				<TotalPages>1</TotalPages>
+				<Item>
+					<ASIN>0130092290</ASIN>
+					<DetailPageURL>http://www.amazon.com/exec/obidos/redirect?tag=ws%26link_code=sp1%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0130092290%2526tag=ws%2526lcode=sp1%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0130092290%25253FSubscriptionId=0PSS84CX07V6C92RE8G2</DetailPageURL>
+					<SalesRank>7337</SalesRank>
+					<SmallImage>
+						<URL>http://images.amazon.com/images/P/0130092290.01._SCTHUMBZZZ_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">57</Width>
+					</SmallImage>
+					<MediumImage>
+						<URL>http://images.amazon.com/images/P/0130092290.01._SCMZZZZZZZ_.jpg</URL>
+						<Height Units="pixels">160</Height>
+						<Width Units="pixels">121</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://images.amazon.com/images/P/0130092290.01._SCLZZZZZZZ_.jpg</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">379</Width>
+					</LargeImage>
+					<ImageSets>
+						<ImageSet Category="primary">
+							<SmallImage>
+								<URL>http://images.amazon.com/images/P/0130092290.01._SCTHUMBZZZ_.jpg</URL>
+								<Height Units="pixels">75</Height>
+								<Width Units="pixels">57</Width>
+							</SmallImage>
+							<MediumImage>
+								<URL>http://images.amazon.com/images/P/0130092290.01._SCMZZZZZZZ_.jpg</URL>
+								<Height Units="pixels">160</Height>
+								<Width Units="pixels">121</Width>
+							</MediumImage>
+							<LargeImage>
+								<URL>http://images.amazon.com/images/P/0130092290.01._SCLZZZZZZZ_.jpg</URL>
+								<Height Units="pixels">500</Height>
+								<Width Units="pixels">379</Width>
+							</LargeImage>
+						</ImageSet>
+					</ImageSets>
+					<ItemAttributes>
+						<Author>Marty Hall</Author>
+						<Author>Larry Brown</Author>
+						<Binding>Paperback</Binding>
+						<EAN>0076092016816</EAN>
+						<Edition>2</Edition>
+						<ISBN>0130092290</ISBN>
+						<ListPrice>
+							<Amount>5499</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$54.99</FormattedPrice>
+						</ListPrice>
+						<NumberOfItems>1</NumberOfItems>
+						<NumberOfPages>736</NumberOfPages>
+						<PackageDimensions>
+							<Height Units="hundredths-inches">175</Height>
+							<Length Units="hundredths-inches">922</Length>
+							<Weight Units="hundredths-pounds">296</Weight>
+							<Width Units="hundredths-inches">694</Width>
+						</PackageDimensions>
+						<ProductGroup>Book</ProductGroup>
+						<PublicationDate>2003-08-29</PublicationDate>
+						<Publisher>Prentice Hall PTR</Publisher>
+						<Title>Core Servlets and JavaServer Pages, Vol. 1: Core Technologies, Second Edition</Title>
+					</ItemAttributes>
+					<OfferSummary>
+						<LowestNewPrice>
+							<Amount>3463</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$34.63</FormattedPrice>
+						</LowestNewPrice>
+						<LowestUsedPrice>
+							<Amount>2724</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$27.24</FormattedPrice>
+						</LowestUsedPrice>
+						<LowestCollectiblePrice>
+							<Amount>4200</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$42.00</FormattedPrice>
+						</LowestCollectiblePrice>
+						<TotalNew>35</TotalNew>
+						<TotalUsed>18</TotalUsed>
+						<TotalCollectible>2</TotalCollectible>
+						<TotalRefurbished>0</TotalRefurbished>
+					</OfferSummary>
+					<Offers>
+						<TotalOffers>1</TotalOffers>
+						<TotalOfferPages>1</TotalOfferPages>
+						<Offer>
+							<Merchant>
+								<MerchantId>ATVPDKIKX0DER</MerchantId>
+								<GlancePage>http://www.amazon.com/gp/help/seller/home.html?seller=ATVPDKIKX0DER</GlancePage>
+								<AverageFeedbackRating>0.0</AverageFeedbackRating>
+							</Merchant>
+							<OfferAttributes>
+								<Condition>New</Condition>
+							</OfferAttributes>
+							<OfferListing>
+								<OfferListingId>GWvJ%2BayH7CyFMiKZZLYL9qcjiONEKIe3%2Fqt0NPRV8dkDrNKJzNI1Wx7LpzJwwS7y7mRteHxkq2kLKkJdqvwHE20G7xldvBL3</OfferListingId>
+								<Price>
+									<Amount>3464</Amount>
+									<CurrencyCode>USD</CurrencyCode>
+									<FormattedPrice>$34.64</FormattedPrice>
+								</Price>
+								<Availability>Usually ships in 24 hours</Availability>
+								<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+							</OfferListing>
+						</Offer>
+					</Offers>
+					<CustomerReviews>
+						<AverageRating>4.5</AverageRating>
+						<TotalReviews>255</TotalReviews>
+						<TotalReviewPages>51</TotalReviewPages>
+						<Review>
+							<ASIN>0130092290</ASIN>
+							<Rating>5</Rating>
+							<HelpfulVotes>0</HelpfulVotes>
+							<CustomerId>A1WTMS177LGQ71</CustomerId>
+							<TotalVotes>2</TotalVotes>
+							<Date>2006-02-27</Date>
+							<Summary>Excellent service - book brand new condition</Summary>
+							<Content>Although used, the book was in brand-new condition. Arrived on time.</Content>
+						</Review>
+						<Review>
+							<ASIN>0130092290</ASIN>
+							<Rating>5</Rating>
+							<HelpfulVotes>0</HelpfulVotes>
+							<CustomerId>A159GL3L3UMQKF</CustomerId>
+							<TotalVotes>0</TotalVotes>
+							<Date>2006-02-23</Date>
+							<Summary>What you need to know about JSP and Servlet Programming.</Summary>
+							<Content>This book presents a great introduction into the world of server side programming.  Hall is an excellent writer and is considered to be the go-to man for JSP and Servlet development.  This book is valuable to anyone interested in J2EE development.</Content>
+						</Review>
+						<Review>
+							<ASIN>0130092290</ASIN>
+							<Rating>4</Rating>
+							<HelpfulVotes>0</HelpfulVotes>
+							<CustomerId>A2Z0K8ZCNK8DP</CustomerId>
+							<TotalVotes>0</TotalVotes>
+							<Date>2006-01-06</Date>
+							<Summary>Very good for the beginer to startup and can not get vol 2.</Summary>
+							<Content>It is a very good for a beginner like me to catch all the basic knowlege in this area as fast as I could, without digging into the the advanced topic at the very begining. With the help of the book, I felt very exciting to be able to setup my own tomcat server and web.xml and develop and deploy my own JSP and servelt in MVC pattern without any help from other IDE like WSAD. The only pity I have that is that the book left all the advanced topics to vol 2, but I have feeling that the vol 2 will never be published. I did send a email to the author about the release date of the vol 2 but did not get response. I could not wait for vol 2, and I have to trun to other good book to fill up the gaps in my knowlege.</Content>
+						</Review>
+						<Review>
+							<ASIN>0130092290</ASIN>
+							<Rating>4</Rating>
+							<HelpfulVotes>1</HelpfulVotes>
+							<CustomerId>AAHTFTIFZ5VFK</CustomerId>
+							<TotalVotes>1</TotalVotes>
+							<Date>2006-01-03</Date>
+							<Summary>Detail rich, high redundancy, super complete first volume on servlets and JSP</Summary>
+							<Content>On most subjects you find at least one thick book. This book is more than the usual thick book on servlets and JSP. It is a really, really thick book. It took me quite a while to get used to reading it. All important points (and there are many of them) are explained a few times in a row. At the beginning I was somewhat annoyed, and then I started to realize that the repetition is due to the sound experience of the author with real people learning this technology. There are few things simple enough that no one can misunderstand a short explanation and sometimes it is oneself who misunderstands. So be prepared to read everything in extenso. 
+&lt;br /&gt;
+&lt;br /&gt;The book covers subjects you normally hear only little about. I found the treatment on HTTP (yes HTTP itself not only HTML) especially useful. You do even get introduced to three different servlet engines. As far as I am concerned two of those descriptions could have been moved to the appendix. Anyhow it is easy to skim through those pages. A lot of material will be covered in the second volume. The choice seems to be ok with the exception of JSTL. Here I wished it would have already been covered - at least at a basic level - in the first volume.
+&lt;br /&gt;
+&lt;br /&gt;Who is the audience? Anybody who needs clarity on a specific point is well served. Anybody who wants to read a second book on the subject might also want to choose it. On the other hand this is clearly not a beginner's text. You get too early drowned in information and confused with too many options. Determined beginners could fight their way through, but to start with a good thin book is far more effective (I liked the excellent "Beginning JSP 2" from APress). Also if you have trouble skimming through large amounts of text and also if it is easy to insult your intelligence, you might want to read a different book.
+&lt;br /&gt;
+&lt;br /&gt;In total I am happy with "Core Servlets and JavaServer Pages, Vol. 1" and keep looking forward to Volume 2, which I preordered already.
+&lt;br /&gt;</Content>
+						</Review>
+						<Review>
+							<ASIN>0130092290</ASIN>
+							<Rating>5</Rating>
+							<HelpfulVotes>3</HelpfulVotes>
+							<CustomerId>A3E4SRFGP9KZ33</CustomerId>
+							<TotalVotes>3</TotalVotes>
+							<Date>2005-10-08</Date>
+							<Summary>Great Book</Summary>
+							<Content>Great book, tells you in detail and in-depth on how Serviles and JSP work together. I wish I bought this book first so I would have saved a lot of money and time. I am looking forward to buying volume II.</Content>
+						</Review>
+					</CustomerReviews>
+					<EditorialReviews>
+						<EditorialReview>
+							<Source>Amazon.com</Source>
+							<Content>In the Java universe, the interface layer of the ubiquitous model-view-controller (MVC) software design paradigm is handled by either servlets of JavaServer Pages (JSP). The second edition of &lt;I&gt;Core Servlets and JavaServer Pages&lt;/I&gt;, like its predecessor, documents these handy technologies fully and practically. Far more than a straight API reference, this book presents examples--complete with code and a listing or screen shot showing results--wherever possible. It's a fantastic strategy for communicating to programmers what they need to do in order to achieve the effects and behaviors they desire. What's new in the second edition? Lots, in terms of its eponymous software development environments: The book covers servlets 2.4 and JSP 2.0. The examples are more refined, too, and more attention is paid to supporting technologies like Web and database servers. &lt;p&gt;  The didactic approach of authors Marty Hall and Larry Brown is recipe-like. They typically begin with a statement of a problem to be solved, then discuss relevant aspects of the servlet or JSP API. A series of code listings follows, and screen shots showing results bring up the rear. The net effect is that it's easy to spot relevant sections in the table of contents, it's clear how implementation works (thanks to the extensive listings) and there's no doubt about what the results are supposed to be. More elaborate examples show how servlets and JSP work in shopping cart, auction, and other applications. This is a significant and worthwhile update to an important Java book. &lt;I&gt;--David Wall&lt;/I&gt;&lt;p&gt;  &lt;B&gt;Topics covered&lt;/B&gt;: Java servlets 2.4, JavaServer Pages (JSP) 2.0 (including the new expression language), HTML forms, JDBC database connectivity, and the details of how servlets and JSP are implemented in Apache Tomcat, Caucho Resin, and Macromedia JRun.</Content>
+						</EditorialReview>
+						<EditorialReview>
+							<Source>Book Description</Source>
+							<Content>Suppose your company wants to sell products online. You have a database  that gives the price and inventory status of each item. But, your database doesn't speak HTTP, the protocol that Web browsers use. Nor does it output HTML, the format Web browsers need. What can you do? Once users know what  they want to buy, how do you gather that information? You want to  customize your site for visitors' preferences and interests--how? You want to keep track of user's purchases as they shop at your site--what  techniques are required to implement this behavior? When your Web site  becomes popular, you might want to compress pages to reduce bandwidth. How can you do this without causing your site to fail for the 30% of visitors  whose browsers don't support compression? In all these cases, you need a  program to act as the intermediary between the browser and some  server-side resource. This book is about using the Java platform for this  type of program. "Wait a second," you say. "Didn't you already write a  book about that?" Well, yes. In May of 2000, Sun Microsystems Press and  Prentice Hall released Marty's second book, Core Servlets and JavaServer  Pages. It was successful beyond everyone's wildest expectations, selling  approximately 100,000 copies, getting translated into Bulgarian, Chinese  simplified script, Chinese traditional script, Czech, French, German,  Hebrew, Japanese, Korean, Polish, Russian, and Spanish, and being chosen  by Amazon.com as one of the top five computer programming books of 2001.  Even better, Marty was swamped with requests for what he really likes  doing: teaching training courses for developers in industry. Despite  having to decline most of the requests, he was still able to teach servlet and JSP short courses in Australia, Canada, Japan, Puerto Rico, the  Philippines, and at dozens of U.S. venues. What fun! Since then, use of  servlets and JSP has continued to grow at a phenomenal rate. The Java 2  Platform has become the technology of choice for developing e-commerce  applications, dynamic Web sites, and Web-enabled applications and service. Servlets and JSP continue to be the foundation of this platform--they  provide the link between Web clients and server-side applications.  Virtually all major Web servers for Windows, Unix (including Linux),  MacOS, VMS, and mainframe operating systems now support servlet and JSP  technology either natively or by means of a plugin. With only a small  amount of configuration, you can run servlets and JSP in Microsoft IIS,  the Apache Web Server, IBM WebSphere, BEA WebLogic, Oracle9i AS, and  dozens of other servers. Performance of both commercial and open-source  servlet and JSP engines has improved significantly. However, the field  continues to evolve rapidly. For example: The official servlet and JSP  reference implementation is no longer developed by Sun. Instead, it is  Apache Tomcat, an open-source product developed by a team from many  different organizations. So, we provide great detail on Tomcat  configuration and usage. Except for Tomcat, the servers popular when the  book was first released are no longer widely used. So, we cover Macromedia JRun and Caucho Resin instead. Version 2.4 of the servlet specification  was released in late 2003. Many APIs have been added or have changed. So,  we have upgraded the book to be consistent with these APIs. Version 2.0 of the JSP specification was released (also late 2003). This version lets you use a shorthand expression language to access bean properties and  collection elements. So, we cover both "classic" scripting and use of the  JSP 2.0 expression language. Two new versions of JDBC have been released,  providing many useful new features. So, we explain database access in the  context of these new features. MySQL has emerged as a popular free  database. So, we explain how to download, configure, and use MySQL (we  also cover Oracle9i and Microsoft Access, of course). Whew. Lots of action in the server-side Java community. Yup; and to reflect this fact, the book has been completely and totally rewritten from top to bottom. Many new  capabilities are now covered. Experienced developer Larry Brown was  brought in to add his expertise, especially in database applications. Many hard-learned lessons are explained in detail. Many techniques are now  approached differently. The new version provides a thorough and up-to-date introduction to servlet and JSP programming. We hope you find it useful.  Who Should Read This Book This book is aimed at two main groups. The  primary audience is developers who are familiar with the basics of the  Java programming language itself but have little or no experience with  server-side applications. For you, virtually the entire book should be  valuable; with the possible exception of the JSP 2.0 expression language  (which is not applicable if you are using a server that is compliant only  with JSP 1.2), you are likely to use capabilities from almost every  chapter in almost every real-world application. The second group is  composed of people who are familiar with basic servlet and JSP development and want to learn how to make use of the new capabilities we just  described. If you are in this category, you can skim many of the chapters, focusing on the capabilities that are new in servlets 2.4, JSP 2.0, or  JDBC 3.0. Although this book is well suited for both experienced servlet  and JSP programmers and newcomers to the technology, it assumes that you  are familiar with basic Java programming. You don't have to be an expert  Java developer, but if you know nothing about the Java programming  language, this is not the place to start. After all, servlet and JSP  technology is an application of the Java programming language. If you  don't know the language, you can't apply it. So, if you know nothing about basic Java development, start with a good introductory book like Thinking  in Java, Core Java, or Core Web Programming. Come back here after you are  comfortable with at least the basics. Volume 2 This first volume of the  book focuses on core technologies: the servlet and JSP capabilities that  you are likely to use in almost every real-life project. The second volume focuses on advanced capabilities: features that you use less frequently  but that are extremely valuable in complex applications. These topics  include servlet and JSP filters, declarative and programmatic Web  application security, custom tag libraries, the JSP Standard Tag Library  (JSTL), Apache Struts, JavaServer Faces (JSF), Java Architecture for XML  Binding (JAXB), database connection pooling, advanced JDBC features, and  use of Ant for deployment. For information on the release date of Volume  2, please see the book's Web site at http://www.coreservlets.com/ .  Distinctive Features This book has five important characteristics that set it apart from many other similar-sounding books: Integrated coverage of  servlets and JSP. The two technologies are closely related; you should  learn and use them together. Real code. Complete, working, documented  programs are essential to learning; we provide lots of them. Step-by-step  instructions. Complex tasks are broken down into simple steps that are  illustrated with real examples. Server configuration and usage details. We supply lots of concrete examples to get you going quickly. Design  strategies. We give lots of experience-based tips on best approaches and  practices. Integrated Coverage of Servlets and JSP One of the key  philosophies behind Core Servlets and JavaServer Pages is that servlets  and JSP should be learned (and used!) together, not separately. After all, they aren't two entirely distinct technologies: JSP is just a different  way of writing servlets. If you don't know servlet programming, you can't  use servlets when they are a better choice than JSP, you can't use the MVC architecture to integrate servlets and JSP, you can't understand complex  JSP constructs, and you can't understand how JSP scripting elements work  (since they are really just servlet code). If you don't understand JSP  development, you can't use JSP when it is a better option than servlet  technology, you can't use the MVC architecture, and you are stuck using  print statements even for pages that consist almost entirely of static  HTML. Servlets and JSP go together! Learn them together! Real Code Sure,  small code snippets are useful for introducing concepts. The book has lots of them. But, for you to really understand how to use various techniques,  you also need to see the techniques in the context of complete working  programs. Not huge programs: just ones that have no missing pieces and  thus really run. We provide plenty of such programs, all of them  documented and available for unrestricted use at  http://www.coreservlets.com . Step-by-Step Instructions When Marty was a  Computer Science graduate student (long before Java existed), he had an  Algorithms professor who stated in class that he was a believer in  step-by-step instructions. Marty was puzzled: wasn't everyone? Not at all. Sure, most instructors explained simple tasks that way, but this professor took even highly theoretical concepts and said "first you do this, then  you do that," and so on. The other instructors didn't explain things this  way; neither did his textbooks. But, it helped Marty enormously. If such  an approach works even for theoretical subjects, how much more should it  work with applied tasks like those described in this book? Server  Configuration and Usage Details When Marty first tried to learn  server-side programming, he grabbed a couple of books, the official  specifications, and some online papers. Almost without fail, they said  something like "since this technology is portable, you need to read your  server's documentation to know how to execute servlets or JSP pages."  Aargh! He couldn't even get started. After hunting around, he downloaded a server. He wrote some code. How did he compile it? Where did he put it  after it was compiled? How did he invoke it? How about some help here?  Servlet and JSP code is portable. The APIs are standardized. But, server  structure and organization are not standardized. ...</Content>
+						</EditorialReview>
+					</EditorialReviews>
+					<SimilarProducts>
+						<SimilarProduct>
+							<ASIN>0131482025</ASIN>
+							<Title>Core Java(TM) 2, Volume I--Fundamentals (7th Edition) (Core Java 2)</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0131118269</ASIN>
+							<Title>Core Java(TM) 2, Volume II--Advanced Features (7th Edition)</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0131422464</ASIN>
+							<Title>Core J2EE Patterns: Best Practices and Design Strategies, Second Edition</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0131463055</ASIN>
+							<Title>Core JavaServer Faces (Sun Microsystems Press Java Series)</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0596005407</ASIN>
+							<Title>Head First Servlets and JSP: Passing the Sun Certified Web Component Developer Exam (SCWCD)</Title>
+						</SimilarProduct>
+					</SimilarProducts>
+					<BrowseNodes>
+						<BrowseNode>
+							<BrowseNodeId>3565</BrowseNodeId>
+							<Name>Web Site Design</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>3554</BrowseNodeId>
+									<Name>Internet Commerce</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>3510</BrowseNodeId>
+											<Name>Web Development</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>5</BrowseNodeId>
+													<Name>Computers &amp; Internet</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>1000</BrowseNodeId>
+															<Name>Subjects</Name>
+															<Ancestors>
+																<BrowseNode>
+																	<BrowseNodeId>283155</BrowseNodeId>
+																</BrowseNode>
+															</Ancestors>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>3610</BrowseNodeId>
+							<Name>General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>3608</BrowseNodeId>
+									<Name>Java</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>3839</BrowseNodeId>
+											<Name>Programming</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>5</BrowseNodeId>
+													<Name>Computers &amp; Internet</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>1000</BrowseNodeId>
+															<Name>Subjects</Name>
+															<Ancestors>
+																<BrowseNode>
+																	<BrowseNodeId>283155</BrowseNodeId>
+																</BrowseNode>
+															</Ancestors>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>411314</BrowseNodeId>
+							<Name>General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>3600</BrowseNodeId>
+									<Name>Scripting &amp; Programming</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>3510</BrowseNodeId>
+											<Name>Web Development</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>5</BrowseNodeId>
+													<Name>Computers &amp; Internet</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>1000</BrowseNodeId>
+															<Name>Subjects</Name>
+															<Ancestors>
+																<BrowseNode>
+																	<BrowseNodeId>283155</BrowseNodeId>
+																</BrowseNode>
+															</Ancestors>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>565726</BrowseNodeId>
+							<Name>Hall, Marty</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>565690</BrowseNodeId>
+									<Name>Authors, A-Z</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>5</BrowseNodeId>
+											<Name>Computers &amp; Internet</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>1000</BrowseNodeId>
+													<Name>Subjects</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>283155</BrowseNodeId>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>657762</BrowseNodeId>
+							<Name>General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>5</BrowseNodeId>
+									<Name>Computers &amp; Internet</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>1000</BrowseNodeId>
+											<Name>Subjects</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>283155</BrowseNodeId>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+					</BrowseNodes>
+					<ListmaniaLists>
+						<ListmaniaList>
+							<ListId>1VSL88RM99WKO</ListId>
+							<ListName>Curt's Java Books</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>2NWZUO8DI5VXF</ListId>
+							<ListName>Java Intro Books</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>1Z3HQCVAZ63ST</ListId>
+							<ListName>Learn Java Programming</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>3MG8VKB5XCNZV</ListId>
+							<ListName>My J2EE Bookshelf</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>39V7LZNQJSM9G</ListId>
+							<ListName>Java Books</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>GLIZCK6Z6Y4F</ListId>
+							<ListName>Java Developer's Arsenal</ListName>
+						</ListmaniaList>
+					</ListmaniaLists>
+				</Item>
+				<Item>
+					<ASIN>0201740958</ASIN>
+					<DetailPageURL>http://www.amazon.com/exec/obidos/redirect?tag=ws%26link_code=sp1%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0201740958%2526tag=ws%2526lcode=sp1%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0201740958%25253FSubscriptionId=0PSS84CX07V6C92RE8G2</DetailPageURL>
+					<SalesRank>143495</SalesRank>
+					<SmallImage>
+						<URL>http://images.amazon.com/images/P/0201740958.01._SCTHUMBZZZ_.jpg</URL>
+						<Height Units="pixels">75</Height>
+						<Width Units="pixels">52</Width>
+					</SmallImage>
+					<MediumImage>
+						<URL>http://images.amazon.com/images/P/0201740958.01._SCMZZZZZZZ_.jpg</URL>
+						<Height Units="pixels">160</Height>
+						<Width Units="pixels">110</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://images.amazon.com/images/P/0201740958.01._SCLZZZZZZZ_.jpg</URL>
+						<Height Units="pixels">500</Height>
+						<Width Units="pixels">344</Width>
+					</LargeImage>
+					<ImageSets>
+						<ImageSet Category="primary">
+							<SmallImage>
+								<URL>http://images.amazon.com/images/P/0201740958.01._SCTHUMBZZZ_.jpg</URL>
+								<Height Units="pixels">75</Height>
+								<Width Units="pixels">52</Width>
+							</SmallImage>
+							<MediumImage>
+								<URL>http://images.amazon.com/images/P/0201740958.01._SCMZZZZZZZ_.jpg</URL>
+								<Height Units="pixels">160</Height>
+								<Width Units="pixels">110</Width>
+							</MediumImage>
+							<LargeImage>
+								<URL>http://images.amazon.com/images/P/0201740958.01._SCLZZZZZZZ_.jpg</URL>
+								<Height Units="pixels">500</Height>
+								<Width Units="pixels">344</Width>
+							</LargeImage>
+						</ImageSet>
+					</ImageSets>
+					<ItemAttributes>
+						<Author>Aaron Skonnard</Author>
+						<Author>Martin Gudgin</Author>
+						<Binding>Paperback</Binding>
+						<EAN>0785342740950</EAN>
+						<Edition>1st</Edition>
+						<ISBN>0201740958</ISBN>
+						<ListPrice>
+							<Amount>3999</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$39.99</FormattedPrice>
+						</ListPrice>
+						<NumberOfItems>1</NumberOfItems>
+						<NumberOfPages>402</NumberOfPages>
+						<PackageDimensions>
+							<Height Units="hundredths-inches">85</Height>
+							<Length Units="hundredths-inches">738</Length>
+							<Weight Units="hundredths-pounds">105</Weight>
+							<Width Units="hundredths-inches">496</Width>
+						</PackageDimensions>
+						<ProductGroup>Book</ProductGroup>
+						<PublicationDate>2001-10-23</PublicationDate>
+						<Publisher>Addison-Wesley Professional</Publisher>
+						<Title>Essential XML Quick Reference: A Programmer's Reference to XML,  XPath, XSLT, XML Schema, SOAP, and More</Title>
+					</ItemAttributes>
+					<OfferSummary>
+						<LowestNewPrice>
+							<Amount>1590</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$15.90</FormattedPrice>
+						</LowestNewPrice>
+						<LowestUsedPrice>
+							<Amount>1100</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$11.00</FormattedPrice>
+						</LowestUsedPrice>
+						<LowestCollectiblePrice>
+							<Amount>3999</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$39.99</FormattedPrice>
+						</LowestCollectiblePrice>
+						<TotalNew>37</TotalNew>
+						<TotalUsed>18</TotalUsed>
+						<TotalCollectible>1</TotalCollectible>
+						<TotalRefurbished>0</TotalRefurbished>
+					</OfferSummary>
+					<Offers>
+						<TotalOffers>1</TotalOffers>
+						<TotalOfferPages>1</TotalOfferPages>
+						<Offer>
+							<Merchant>
+								<MerchantId>ATVPDKIKX0DER</MerchantId>
+								<GlancePage>http://www.amazon.com/gp/help/seller/home.html?seller=ATVPDKIKX0DER</GlancePage>
+								<AverageFeedbackRating>0.0</AverageFeedbackRating>
+							</Merchant>
+							<OfferAttributes>
+								<Condition>New</Condition>
+							</OfferAttributes>
+							<OfferListing>
+								<OfferListingId>NQcyclHGkqyN6x3yEasnlrH%2Fdy7u03scVni9t9pcc6o2Q8By8367nXRW1b2Y23Hg9Q0BDFUvACNf%2BZKePcLYyYz2S4xvEmax</OfferListingId>
+								<Price>
+									<Amount>2519</Amount>
+									<CurrencyCode>USD</CurrencyCode>
+									<FormattedPrice>$25.19</FormattedPrice>
+								</Price>
+								<Availability>Usually ships in 24 hours</Availability>
+								<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+							</OfferListing>
+						</Offer>
+					</Offers>
+					<CustomerReviews>
+						<AverageRating>4.0</AverageRating>
+						<TotalReviews>18</TotalReviews>
+						<TotalReviewPages>4</TotalReviewPages>
+						<Review>
+							<ASIN>0201740958</ASIN>
+							<Rating>5</Rating>
+							<HelpfulVotes>3</HelpfulVotes>
+							<CustomerId>ATLKXQLFZEXO9</CustomerId>
+							<TotalVotes>3</TotalVotes>
+							<Date>2005-01-10</Date>
+							<Summary>a great book to have at your side while coding</Summary>
+							<Content>Who can remember all the little details surrounding XML?  This book is a great summery of the most important XML technologies.  It isn't a tutorial, it isn't for beginners, it's for "What's the name of that XPath function that removes excess spaces?" (normalize-space).  Highly recommended for finding answers fast.</Content>
+						</Review>
+						<Review>
+							<ASIN>0201740958</ASIN>
+							<Rating>4</Rating>
+							<HelpfulVotes>3</HelpfulVotes>
+							<CustomerId>A1RXL3RPFFET0C</CustomerId>
+							<TotalVotes>3</TotalVotes>
+							<Date>2004-05-05</Date>
+							<Summary>easy to use and very useful</Summary>
+							<Content>Keeping in mind that this is a &quot;quick&quot; reference, this book is organised well and very easy to use. When learning XML I had it by my side many times and almost always found what I was looking for. My only comment for improvement would be a more comprehensive index and maybe some a more suitable cover design (I am constantly pointing people to the text on the cover in order to convice them this is a book about XML).</Content>
+						</Review>
+						<Review>
+							<ASIN>0201740958</ASIN>
+							<Rating>5</Rating>
+							<HelpfulVotes>4</HelpfulVotes>
+							<CustomerId>A1YKTVU1NIZYTN</CustomerId>
+							<TotalVotes>4</TotalVotes>
+							<Date>2003-12-31</Date>
+							<Summary>The single most essential xml book I own</Summary>
+							<Content>This isn't a "textbook" of xml -- if you want a guided introductory tutorial, look elsewhere. But if you're anything like me, once you've got past the intro stage, you need a good memory-jogger and "explain-that-to-me-quick-just-one-more-time" resource at your side while you're working on a project. That's what this book provides, and it does it brilliantly, insightfully, and without the endless, distracting and generally useless drivel of many xml books. The explanations unfailingly come right to the point, and it's rich with short, helpful examples. It's obvious the authors have really developed in the real world! There is no book on my xml shelf that gets more use (and collects less dust) than this one. Buy it and you'll be glad you did. (I'm on my second copy!)</Content>
+						</Review>
+						<Review>
+							<ASIN>0201740958</ASIN>
+							<Rating>1</Rating>
+							<HelpfulVotes>5</HelpfulVotes>
+							<CustomerId>AMQ08A5YP4PQS</CustomerId>
+							<TotalVotes>57</TotalVotes>
+							<Date>2003-06-23</Date>
+							<Summary>doesn't worth the money</Summary>
+							<Content>man i hate this book. I can't remember a single paragraph that strike the point. after reading it, i am as confused as before.</Content>
+						</Review>
+						<Review>
+							<ASIN>0201740958</ASIN>
+							<Rating>4</Rating>
+							<HelpfulVotes>5</HelpfulVotes>
+							<CustomerId>AYYIOD1MJWHO3</CustomerId>
+							<TotalVotes>8</TotalVotes>
+							<Date>2003-06-10</Date>
+							<Summary>Wide-ranging but brisk</Summary>
+							<Content>This books is quite good for covering a wide range of topics and concisely. But all the time you are reading the book, you get the doubt &quot;What could I be missing?&quot; - as the coverage of topics is so minimal and unattached. Though, at the end of the day, those topics require no more attention than that, to get to that wisdom it takes time and this book does not bother to get you that wisdom.&lt;p&gt;Otherwise, this is quite a good book.</Content>
+						</Review>
+					</CustomerReviews>
+					<EditorialReviews>
+						<EditorialReview>
+							<Source>Book Description</Source>
+							<Content>This book is for anyone working with today's mainstream XML technologies.  It was specifically designed to serve as a handy but thorough quick  reference that answers the most common XML-related technical questions. It goes beyond the traditional pocket reference design by providing complete  coverage of each topic along with plenty of meaningful examples. Each  chapter provides a brief introduction, which is followed by the detailed  reference information. This approach assumes the reader has a basic  understanding of the given topic. The detailed outline (at the beginning), index (in the back), bleeding tabs (along the side), and the page  headers/footers were designed to help readers quickly find answers to  their questions. 0201740958P10102001</Content>
+						</EditorialReview>
+					</EditorialReviews>
+					<SimilarProducts>
+						<SimilarProduct>
+							<ASIN>0130655678</ASIN>
+							<Title>Definitive XML Schema</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0735611831</ASIN>
+							<Title>XML Pocket Consultant</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0596003722</ASIN>
+							<Title>XSLT Cookbook</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0131428985</ASIN>
+							<Title>Service-Oriented Architecture : A Field Guide to Integrating XML and Web Services</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0596007647</ASIN>
+							<Title>XML in a Nutshell, Third Edition</Title>
+						</SimilarProduct>
+					</SimilarProducts>
+					<BrowseNodes>
+						<BrowseNode>
+							<BrowseNodeId>4030</BrowseNodeId>
+							<Name>HTML - General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>4021</BrowseNodeId>
+									<Name>Web Programming</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>3839</BrowseNodeId>
+											<Name>Programming</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>5</BrowseNodeId>
+													<Name>Computers &amp; Internet</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>1000</BrowseNodeId>
+															<Name>Subjects</Name>
+															<Ancestors>
+																<BrowseNode>
+																	<BrowseNodeId>283155</BrowseNodeId>
+																</BrowseNode>
+															</Ancestors>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>4052</BrowseNodeId>
+							<Name>XML</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>285857</BrowseNodeId>
+									<Name>Extensible Languages</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>3839</BrowseNodeId>
+											<Name>Programming</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>5</BrowseNodeId>
+													<Name>Computers &amp; Internet</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>1000</BrowseNodeId>
+															<Name>Subjects</Name>
+															<Ancestors>
+																<BrowseNode>
+																	<BrowseNodeId>283155</BrowseNodeId>
+																</BrowseNode>
+															</Ancestors>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>171114</BrowseNodeId>
+							<Name>General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>3839</BrowseNodeId>
+									<Name>Programming</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>5</BrowseNodeId>
+											<Name>Computers &amp; Internet</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>1000</BrowseNodeId>
+													<Name>Subjects</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>283155</BrowseNodeId>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>657762</BrowseNodeId>
+							<Name>General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>5</BrowseNodeId>
+									<Name>Computers &amp; Internet</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>1000</BrowseNodeId>
+											<Name>Subjects</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>283155</BrowseNodeId>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+					</BrowseNodes>
+					<ListmaniaLists>
+						<ListmaniaList>
+							<ListId>2SEMV6QGT1PLZ</ListId>
+							<ListName>HansWorkList</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>2HD5DXK4OK9PG</ListId>
+							<ListName>All must-have XML Developer Books</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>2HA84ORORC5GA</ListId>
+							<ListName>.Net Books</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>2QOOXM3JR9TOH</ListId>
+							<ListName>XML Exchange Markup Language</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>31IGIAJSNIGGN</ListId>
+							<ListName>Simple Object Access Protocol (Soap)</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>1W02SW46BPWBQ</ListId>
+							<ListName>Computer Books Worth Reading</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>2HTAJBM24POBL</ListId>
+							<ListName>12 Essential Java/XML Books</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>6MVTJFIW6X7E</ListId>
+							<ListName>Best XML Books</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>B1MX02ZBGUVB</ListId>
+							<ListName>.Net, XML, SQL Server &amp; other books i want/own/use - List 1</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>3T2OMLE95MIQH</ListId>
+							<ListName>.NET / XML web development</ListName>
+						</ListmaniaList>
+					</ListmaniaLists>
+				</Item>
+				<Item>
+					<ASIN>0764543814</ASIN>
+					<DetailPageURL>http://www.amazon.com/exec/obidos/redirect?tag=ws%26link_code=sp1%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0764543814%2526tag=ws%2526lcode=sp1%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0764543814%25253FSubscriptionId=0PSS84CX07V6C92RE8G2</DetailPageURL>
+					<SalesRank>52626</SalesRank>
+					<SmallImage>
+						<URL>http://images.amazon.com/images/P/0764543814.01._SCTHUMBZZZ_.jpg</URL>
+						<Height Units="pixels">60</Height>
+						<Width Units="pixels">40</Width>
+					</SmallImage>
+					<MediumImage>
+						<URL>http://images.amazon.com/images/P/0764543814.01._SCMZZZZZZZ_.jpg</URL>
+						<Height Units="pixels">140</Height>
+						<Width Units="pixels">94</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://images.amazon.com/images/P/0764543814.01._SCLZZZZZZZ_.jpg</URL>
+						<Height Units="pixels">475</Height>
+						<Width Units="pixels">318</Width>
+					</LargeImage>
+					<ImageSets>
+						<ImageSet Category="primary">
+							<SmallImage>
+								<URL>http://images.amazon.com/images/P/0764543814.01._SCTHUMBZZZ_.jpg</URL>
+								<Height Units="pixels">60</Height>
+								<Width Units="pixels">40</Width>
+							</SmallImage>
+							<MediumImage>
+								<URL>http://images.amazon.com/images/P/0764543814.01._SCMZZZZZZZ_.jpg</URL>
+								<Height Units="pixels">140</Height>
+								<Width Units="pixels">94</Width>
+							</MediumImage>
+							<LargeImage>
+								<URL>http://images.amazon.com/images/P/0764543814.01._SCLZZZZZZZ_.jpg</URL>
+								<Height Units="pixels">475</Height>
+								<Width Units="pixels">318</Width>
+							</LargeImage>
+						</ImageSet>
+					</ImageSets>
+					<ItemAttributes>
+						<Author>Michael  Kay</Author>
+						<Binding>Paperback</Binding>
+						<EAN>9780764543814</EAN>
+						<Edition>2</Edition>
+						<ISBN>0764543814</ISBN>
+						<ListPrice>
+							<Amount>3499</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$34.99</FormattedPrice>
+						</ListPrice>
+						<NumberOfItems>1</NumberOfItems>
+						<NumberOfPages>992</NumberOfPages>
+						<PackageDimensions>
+							<Height Units="hundredths-inches">203</Height>
+							<Length Units="hundredths-inches">902</Length>
+							<Weight Units="hundredths-pounds">297</Weight>
+							<Width Units="hundredths-inches">604</Width>
+						</PackageDimensions>
+						<ProductGroup>Book</ProductGroup>
+						<PublicationDate>2001-05-03</PublicationDate>
+						<Publisher>Wrox</Publisher>
+						<Title>XSLT : Programmer's Reference (Programmer to Programmer)</Title>
+					</ItemAttributes>
+					<OfferSummary>
+						<LowestNewPrice>
+							<Amount>2102</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$21.02</FormattedPrice>
+						</LowestNewPrice>
+						<LowestUsedPrice>
+							<Amount>1600</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$16.00</FormattedPrice>
+						</LowestUsedPrice>
+						<TotalNew>13</TotalNew>
+						<TotalUsed>10</TotalUsed>
+						<TotalCollectible>0</TotalCollectible>
+						<TotalRefurbished>0</TotalRefurbished>
+					</OfferSummary>
+					<Offers>
+						<TotalOffers>1</TotalOffers>
+						<TotalOfferPages>1</TotalOfferPages>
+						<Offer>
+							<Merchant>
+								<MerchantId>ATVPDKIKX0DER</MerchantId>
+								<GlancePage>http://www.amazon.com/gp/help/seller/home.html?seller=ATVPDKIKX0DER</GlancePage>
+								<AverageFeedbackRating>0.0</AverageFeedbackRating>
+							</Merchant>
+							<OfferAttributes>
+								<Condition>New</Condition>
+							</OfferAttributes>
+							<OfferListing>
+								<OfferListingId>mHkFGxjArKVK7BQR5ClB4KR%2BQaqhrJqbrxAjr2gIaMp8D3kY7SE6ErAhC8Jdhvdldqk7fDAavxnn56st1A9lpW8srZnRZpNy</OfferListingId>
+								<Price>
+									<Amount>2204</Amount>
+									<CurrencyCode>USD</CurrencyCode>
+									<FormattedPrice>$22.04</FormattedPrice>
+								</Price>
+								<Availability>Usually ships in 24 hours</Availability>
+								<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+							</OfferListing>
+						</Offer>
+					</Offers>
+					<CustomerReviews>
+						<AverageRating>4.5</AverageRating>
+						<TotalReviews>79</TotalReviews>
+						<TotalReviewPages>16</TotalReviewPages>
+						<Review>
+							<ASIN>0764543814</ASIN>
+							<Rating>1</Rating>
+							<HelpfulVotes>1</HelpfulVotes>
+							<CustomerId>AYBY1L9J6AKVK</CustomerId>
+							<TotalVotes>1</TotalVotes>
+							<Date>2006-03-05</Date>
+							<Summary>Look Elsewhere for XSLT Book</Summary>
+							<Content>This is the worst technical book I've ever used. There is no organization to it, and there is redundant information, especially in the elements listing section. There are areas that are extremely verbose and make little sense while other areas could use simple, less wordy explanation follwed by an example. This book makes a good paper weight, that's about it.</Content>
+						</Review>
+						<Review>
+							<ASIN>0764543814</ASIN>
+							<Rating>2</Rating>
+							<HelpfulVotes>1</HelpfulVotes>
+							<CustomerId>A3Q1DWGXCLZ7TB</CustomerId>
+							<TotalVotes>3</TotalVotes>
+							<Date>2005-12-09</Date>
+							<Summary>Very tough and unordered reading</Summary>
+							<Content>It is a pity but I have to write I am not satisfied with the book. It is kind of a book which does not concetrate on the main purpose of a reading - "to learn something". Of course I understand - it is programmer's reference but even so there is a lot of introductory parts which could be done much better.
+&lt;br /&gt;There are parts that are very very talkative and give nowadays "vain" information and on the other hand there are parts which should be absolutely more narrative. The book reminds me a kind of "scientific" or "academic" book. From this point of view it is quite good. It is for people who have time to read it in their labs. It is the book for a long time. You absolutely learn a lot of useful topics but you have to find your own way of reading.</Content>
+						</Review>
+						<Review>
+							<ASIN>0764543814</ASIN>
+							<Rating>5</Rating>
+							<HelpfulVotes>0</HelpfulVotes>
+							<CustomerId>A3EG8JMBQFGCGA</CustomerId>
+							<TotalVotes>0</TotalVotes>
+							<Date>2005-08-29</Date>
+							<Summary>Well organized, well written, well published... Well done!</Summary>
+							<Content>As other's have noted, this book presents all the relevant information in a logical order with clear and well-designed examples, leading the reader from basics to complexities. The author maintains an engaging style, never dull or dry, which (if you ask me) is a great accomplishment considering the topic.
+&lt;br /&gt;
+&lt;br /&gt;I was especially impressed with his section on "the whys and hows" of functional programming where the author provides just enough computer science history and theory to set the context, and he really explains how to use FP effectively in XSLT and why the language is structured this way. I thought his presentation would be accessible to an intelligent non-programmer, while not talking down to professional programmers. Throughout the book, there is a masterful balance of tutorial and depth.
+&lt;br /&gt;
+&lt;br /&gt;One judge of a computer book's quality is in the examples, whether there are typographical and logic errors. How can you trust that the book's information is correct if the samples don't even run? There is no such problem here; it's obvious that the samples were actually tested (Gasp!) before being included in the book. (And yes, the lack of such diligence exists in many other texts.) Kudos to the author and publishers!</Content>
+						</Review>
+						<Review>
+							<ASIN>0764543814</ASIN>
+							<Rating>5</Rating>
+							<HelpfulVotes>0</HelpfulVotes>
+							<CustomerId>A30N2M1M0UYPBV</CustomerId>
+							<TotalVotes>0</TotalVotes>
+							<Date>2005-06-29</Date>
+							<Summary>A word of praise and a word of advice</Summary>
+							<Content>Tons of people have reviewed this book... they seem, like me, to be compelled by how fantastic it is.  I don't really have anything to add to the praise.  
+&lt;br /&gt;
+&lt;br /&gt;I would just like to note (and this isn't M.Kay's fault I'm sure) that the heading/page formatting for the series makes it hard to find things in a number of the chapters.  I went through with a highlighter and added my own formatting distinctions between the 5th and 6th and 7th and etc. level headings and it made it more usable.  (Just a suggestion if you're having the same problem finding things.)
+&lt;br /&gt;
+&lt;br /&gt;Again, fantastic job on the part of the author.</Content>
+						</Review>
+						<Review>
+							<ASIN>0764543814</ASIN>
+							<Rating>4</Rating>
+							<HelpfulVotes>0</HelpfulVotes>
+							<CustomerId>A1AMS06WMQ139K</CustomerId>
+							<TotalVotes>0</TotalVotes>
+							<Date>2005-02-28</Date>
+							<Summary>The book for every serious XML programmer.</Summary>
+							<Content>M. Kay is  savvy fellow, very careful formulation with excellent examples. I recommend though buying the XSLT 2.0 book, as the present XSLT 1.0 is essentially included in the latter. Every chapter has: "Whats new in XSLT 2.0" so the XSLT 1.0 programmer gets more look-ahead info. NB XSLT 2.0 runs till now only on the author's parser. Although I had no previous XML experience this book was the most helpful of the three other books I bought. Its the only one I still use as reference. There was no question that the book could not answer until now.</Content>
+						</Review>
+					</CustomerReviews>
+					<EditorialReviews>
+						<EditorialReview>
+							<Source>Amazon.com</Source>
+							<Content>As XML begins to take hold, the eXtensible Stylesheet Language: Transformation (XSLT) standard will be playing a major role in making all those XML predictions a reality. Author Michael Kay exudes enthusiasm in this guide, &lt;I&gt;XSLT Programmer's Reference&lt;/I&gt;, by taking every opportunity to illustrate the power and flexibility of XSLT.&lt;p&gt;  Kay calls XSLT the "SQL of the Web"--a phrase that is sure to perk up the ears of many readers expecting a simple documentation of just another Web-language standard. Like other Wrox Programmer's Reference series titles, this book starts off with chapters that rapidly introduce the concepts and set the context for the core of the book, which is a complete documentation of the XSLT standard. The book uses this space well to explore the transformation process and the tree structure that is used for both input and output of style sheet documents. By the time the reader gets to the reference section of the book, he or she will be convinced of the power of XSLT.&lt;p&gt;  Each element of XSLT is covered with concise examples that include both the source XML code and style sheet code. XSLT style sheets can be used in a variety of ways and across a wide spectrum of complexity. The book helps the reader grasp this concept by presenting four style-sheet design patterns that comprise the vast majority of implementations. The text looks at each, demonstrating how to identify the design pattern by its content and apply it to appropriate circumstances.&lt;p&gt;  XSLT is the true muscle behind XML and is integral to putting XML to work in the real world. This title is simply a must-have for any developer utilizing XML. &lt;I&gt;--Stephen W. Plain&lt;/I&gt;&lt;p&gt;   &lt;B&gt;Topics covered:&lt;/B&gt;  &lt;ul&gt; &lt;li&gt;XSLT transformation processing model &lt;li&gt;Style sheet structure  &lt;li&gt;XSLT element reference  &lt;li&gt;Expressions patterns  &lt;li&gt;Functions  &lt;li&gt;Style-sheet design patterns  &lt;li&gt;Case studies &lt;li&gt;Saxon  &lt;li&gt;Xalan  &lt;li&gt;xt  &lt;li&gt;Microsoft MSXML3 &lt;/ul&gt;</Content>
+						</EditorialReview>
+						<EditorialReview>
+							<Source>Book Description</Source>
+							<Content>Who is this book for? This book is for programmers who want to learn how  to use the XSLT language for developing web applications. The book is in  four parts: a detailed introduction to the concepts of the language, a  reference section giving comprehensive specifications and working examples of every feature, a development guide giving design advice and case  studies for the advanced user, and a product reference detailing the  features and usage of the latest versions of Microsoft MSXML, Apache  Xalan, Oracle XML, open source Saxon, the TRAX API and other processors  and tools. What does this book cover? Explains the rationale behind XSLT:  what is it for? Describes the XSLT processing model Explores design  patterns and stylesheet structure Provides a full reference to the XPath  and XSLT languages Demonstrates the use of XSLT with worked examples  Describes currently available XSLT processors updated to reflect recent  advances in XSLT parser technology Includes coverage of proposed  specification enhancements As an experienced developer, you need to get  the facts on a new technology fast. Without the marketing hype, without  the trivial introduction. That s what Wrox Programmer s References  deliver. Hard facts on the newest technologies with practical examples of  how to apply new tools to your development projects today.</Content>
+						</EditorialReview>
+					</EditorialReviews>
+					<SimilarProducts>
+						<SimilarProduct>
+							<ASIN>0596003722</ASIN>
+							<Title>XSLT Cookbook</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0764547763</ASIN>
+							<Title>XSLT and XPath On The Edge, Unlimited Edition</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0596003277</ASIN>
+							<Title>Learning XSLT</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0130655678</ASIN>
+							<Title>Definitive XML Schema</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0764569104</ASIN>
+							<Title>XPath 2.0 Programmer's Reference (Programmer to Programmer)</Title>
+						</SimilarProduct>
+					</SimilarProducts>
+					<BrowseNodes>
+						<BrowseNode>
+							<BrowseNodeId>3565</BrowseNodeId>
+							<Name>Web Site Design</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>3554</BrowseNodeId>
+									<Name>Internet Commerce</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>3510</BrowseNodeId>
+											<Name>Web Development</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>5</BrowseNodeId>
+													<Name>Computers &amp; Internet</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>1000</BrowseNodeId>
+															<Name>Subjects</Name>
+															<Ancestors>
+																<BrowseNode>
+																	<BrowseNodeId>283155</BrowseNodeId>
+																</BrowseNode>
+															</Ancestors>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>3710</BrowseNodeId>
+							<Name>Internet Publishing</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>3705</BrowseNodeId>
+									<Name>Internet, Groupware, &amp; Telecommunications</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>3652</BrowseNodeId>
+											<Name>Networking</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>5</BrowseNodeId>
+													<Name>Computers &amp; Internet</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>1000</BrowseNodeId>
+															<Name>Subjects</Name>
+															<Ancestors>
+																<BrowseNode>
+																	<BrowseNodeId>283155</BrowseNodeId>
+																</BrowseNode>
+															</Ancestors>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>4030</BrowseNodeId>
+							<Name>HTML - General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>4021</BrowseNodeId>
+									<Name>Web Programming</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>3839</BrowseNodeId>
+											<Name>Programming</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>5</BrowseNodeId>
+													<Name>Computers &amp; Internet</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>1000</BrowseNodeId>
+															<Name>Subjects</Name>
+															<Ancestors>
+																<BrowseNode>
+																	<BrowseNodeId>283155</BrowseNodeId>
+																</BrowseNode>
+															</Ancestors>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>171114</BrowseNodeId>
+							<Name>General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>3839</BrowseNodeId>
+									<Name>Programming</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>5</BrowseNodeId>
+											<Name>Computers &amp; Internet</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>1000</BrowseNodeId>
+													<Name>Subjects</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>283155</BrowseNodeId>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>266093</BrowseNodeId>
+							<Name>General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>4021</BrowseNodeId>
+									<Name>Web Programming</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>3839</BrowseNodeId>
+											<Name>Programming</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>5</BrowseNodeId>
+													<Name>Computers &amp; Internet</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>1000</BrowseNodeId>
+															<Name>Subjects</Name>
+															<Ancestors>
+																<BrowseNode>
+																	<BrowseNodeId>283155</BrowseNodeId>
+																</BrowseNode>
+															</Ancestors>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>411314</BrowseNodeId>
+							<Name>General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>3600</BrowseNodeId>
+									<Name>Scripting &amp; Programming</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>3510</BrowseNodeId>
+											<Name>Web Development</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>5</BrowseNodeId>
+													<Name>Computers &amp; Internet</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>1000</BrowseNodeId>
+															<Name>Subjects</Name>
+															<Ancestors>
+																<BrowseNode>
+																	<BrowseNodeId>283155</BrowseNodeId>
+																</BrowseNode>
+															</Ancestors>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>657762</BrowseNodeId>
+							<Name>General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>5</BrowseNodeId>
+									<Name>Computers &amp; Internet</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>1000</BrowseNodeId>
+											<Name>Subjects</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>283155</BrowseNodeId>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+					</BrowseNodes>
+					<ListmaniaLists>
+						<ListmaniaList>
+							<ListId>3NAA7RZD1EHKR</ListId>
+							<ListName>Other Books I Own</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>16SHYID2F2OOR</ListId>
+							<ListName>Books for CSCI E-153, "Web Development Using XML", Fall 2003</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>34AQ2T8EBFGEA</ListId>
+							<ListName>TexasFlashers - Member Recommendations</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>1LUUW3DY0PAK9</ListId>
+							<ListName>Good XML/related topics books</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>BUXRHLOFF9HG</ListId>
+							<ListName>Cocoon Programming</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>31O63NZPNUEAF</ListId>
+							<ListName>Hot XML Books</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>2FF5OYDP0JRKG</ListId>
+							<ListName>Learn about XQuery</ListName>
+						</ListmaniaList>
+					</ListmaniaLists>
+				</Item>
+				<Item>
+					<ASIN>0735611831</ASIN>
+					<DetailPageURL>http://www.amazon.com/exec/obidos/redirect?tag=ws%26link_code=sp1%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0735611831%2526tag=ws%2526lcode=sp1%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0735611831%25253FSubscriptionId=0PSS84CX07V6C92RE8G2</DetailPageURL>
+					<SalesRank>284515</SalesRank>
+					<SmallImage>
+						<URL>http://images.amazon.com/images/P/0735611831.01._SCTHUMBZZZ_.jpg</URL>
+						<Height Units="pixels">60</Height>
+						<Width Units="pixels">40</Width>
+					</SmallImage>
+					<MediumImage>
+						<URL>http://images.amazon.com/images/P/0735611831.01._SCMZZZZZZZ_.jpg</URL>
+						<Height Units="pixels">140</Height>
+						<Width Units="pixels">93</Width>
+					</MediumImage>
+					<LargeImage>
+						<URL>http://images.amazon.com/images/P/0735611831.01._SCLZZZZZZZ_.jpg</URL>
+						<Height Units="pixels">475</Height>
+						<Width Units="pixels">315</Width>
+					</LargeImage>
+					<ImageSets>
+						<ImageSet Category="primary">
+							<SmallImage>
+								<URL>http://images.amazon.com/images/P/0735611831.01._SCTHUMBZZZ_.jpg</URL>
+								<Height Units="pixels">60</Height>
+								<Width Units="pixels">40</Width>
+							</SmallImage>
+							<MediumImage>
+								<URL>http://images.amazon.com/images/P/0735611831.01._SCMZZZZZZZ_.jpg</URL>
+								<Height Units="pixels">140</Height>
+								<Width Units="pixels">93</Width>
+							</MediumImage>
+							<LargeImage>
+								<URL>http://images.amazon.com/images/P/0735611831.01._SCLZZZZZZZ_.jpg</URL>
+								<Height Units="pixels">475</Height>
+								<Width Units="pixels">315</Width>
+							</LargeImage>
+						</ImageSet>
+					</ImageSets>
+					<ItemAttributes>
+						<Author>William R. Stanek</Author>
+						<Author>William Stanek</Author>
+						<Binding>Paperback</Binding>
+						<EAN>9780735611832</EAN>
+						<Edition>1</Edition>
+						<ISBN>0735611831</ISBN>
+						<ListPrice>
+							<Amount>2999</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$29.99</FormattedPrice>
+						</ListPrice>
+						<NumberOfItems>1</NumberOfItems>
+						<NumberOfPages>416</NumberOfPages>
+						<PackageDimensions>
+							<Height Units="hundredths-inches">120</Height>
+							<Length Units="hundredths-inches">802</Length>
+							<Weight Units="hundredths-pounds">118</Weight>
+							<Width Units="hundredths-inches">538</Width>
+						</PackageDimensions>
+						<ProductGroup>Book</ProductGroup>
+						<PublicationDate>2002-01-16</PublicationDate>
+						<Publisher>Microsoft Press</Publisher>
+						<Title>XML Pocket Consultant</Title>
+					</ItemAttributes>
+					<OfferSummary>
+						<LowestNewPrice>
+							<Amount>795</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$7.95</FormattedPrice>
+						</LowestNewPrice>
+						<LowestUsedPrice>
+							<Amount>645</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$6.45</FormattedPrice>
+						</LowestUsedPrice>
+						<LowestCollectiblePrice>
+							<Amount>2999</Amount>
+							<CurrencyCode>USD</CurrencyCode>
+							<FormattedPrice>$29.99</FormattedPrice>
+						</LowestCollectiblePrice>
+						<TotalNew>24</TotalNew>
+						<TotalUsed>9</TotalUsed>
+						<TotalCollectible>1</TotalCollectible>
+						<TotalRefurbished>0</TotalRefurbished>
+					</OfferSummary>
+					<Offers>
+						<TotalOffers>1</TotalOffers>
+						<TotalOfferPages>1</TotalOfferPages>
+						<Offer>
+							<Merchant>
+								<MerchantId>ATVPDKIKX0DER</MerchantId>
+								<GlancePage>http://www.amazon.com/gp/help/seller/home.html?seller=ATVPDKIKX0DER</GlancePage>
+								<AverageFeedbackRating>0.0</AverageFeedbackRating>
+							</Merchant>
+							<OfferAttributes>
+								<Condition>New</Condition>
+							</OfferAttributes>
+							<OfferListing>
+								<OfferListingId>99TW2WCdZ6uqE7ygzbPSFAjh8HlsAVr477tkDvQ%2BE%2B2YEmEm%2F7rePFUktqbUIET%2F5gbvEAF7CmknC8Sfbnwu%2FajGf38ROnTd</OfferListingId>
+								<Price>
+									<Amount>1889</Amount>
+									<CurrencyCode>USD</CurrencyCode>
+									<FormattedPrice>$18.89</FormattedPrice>
+								</Price>
+								<Availability>Usually ships in 24 hours</Availability>
+								<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+							</OfferListing>
+						</Offer>
+					</Offers>
+					<CustomerReviews>
+						<AverageRating>5.0</AverageRating>
+						<TotalReviews>7</TotalReviews>
+						<TotalReviewPages>2</TotalReviewPages>
+						<Review>
+							<ASIN>0735611831</ASIN>
+							<Rating>5</Rating>
+							<HelpfulVotes>2</HelpfulVotes>
+							<CustomerId>A2EYS4FB7MHPBP</CustomerId>
+							<TotalVotes>2</TotalVotes>
+							<Date>2005-02-18</Date>
+							<Summary>It Doesn't Get Any Better Than This</Summary>
+							<Content>If you are a knowledgable IT professional and need to either learn XML or increase your knowledge quickly, this book is for you. Complete, fast-paced, no dead wood, and designed with the busy IT professional in mind. It reminds me of the Wrox &quot;Handbook&quot; series.&lt;p&gt;It's 370 pages but half-size, so equivalent to a normal-size 185-page book. Best book purchase I've made all year. Weird for an MSPress book to be so good :-)&lt;p&gt;Take the hint, MS Press... make all of your books like this!</Content>
+						</Review>
+						<Review>
+							<ASIN>0735611831</ASIN>
+							<Rating>5</Rating>
+							<HelpfulVotes>3</HelpfulVotes>
+							<CustomerId>A3OR8SIK4PKXUE</CustomerId>
+							<TotalVotes>3</TotalVotes>
+							<Date>2005-01-13</Date>
+							<Summary>Buy this book!</Summary>
+							<Content>I seldom award five stars but this book deserves it.  If you can only buy one XML reference book, buy this one; if you have XML books that you're not satisfied with, buy this one: The XML Pocket Consultant is *the* XML "sleeper" title.
+&lt;br /&gt;
+&lt;br /&gt;In my mind, I've retitled the XML Pocket Consultant "The XML Comprehensive Quick Reference."  The book presents every aspect of XML and related technologies in a clear, crisp, understandable style. The book's excellent content is augmented by a professionally crafted visual style (page layout, whitespace, typeface, headings, list construction, examples) that facilitates information access and transfer; I mention this because too many books of this type look like they were designed and produced using consumer-level desktop publishing software.
+&lt;br /&gt;
+&lt;br /&gt;I'm not normally this enthusiastic about a book, but The XML Pocket Consultant is truly a treasure: It's the single most useful, helpful, 5.5" x 8" x 1.2" compendium of XML information I've so far found.</Content>
+						</Review>
+						<Review>
+							<ASIN>0735611831</ASIN>
+							<Rating>5</Rating>
+							<HelpfulVotes>3</HelpfulVotes>
+							<CustomerId>A3R6K136FN38LG</CustomerId>
+							<TotalVotes>3</TotalVotes>
+							<Date>2004-03-29</Date>
+							<Summary>Fantastic</Summary>
+							<Content>&quot;XML Pocket Consultant&quot; is the best XML book on the market. It is really worth every penny. This book is packed with useful information. My biggest disappointment is that I had such a hard time find the book. For anyone wanting to learn XML, XSL, XPath this is the book I recommend.</Content>
+						</Review>
+						<Review>
+							<ASIN>0735611831</ASIN>
+							<Rating>5</Rating>
+							<HelpfulVotes>11</HelpfulVotes>
+							<CustomerId>A49R5DBXXQDE5</CustomerId>
+							<TotalVotes>11</TotalVotes>
+							<Date>2004-01-02</Date>
+							<Summary>Concise but thorough pocket reference</Summary>
+							<Content>I knew a little about XML before reading this book, but nothing in-depth. I've been a software developer for years however, so I didn't want a basics book, but something that covered the subject quickly and in depth. After reading the other reviews I bought this book and was not disappointed. I was particularly interested in XML Schema and XSLT, and this book does an excellent job with both. I'm not sure you can find a more thorough reference outside the standards documents themselves. Datatypes, restrictions, defining complex types--I use this book for XML Schema like I use K&amp;R for C programming. Note that this book has almost no coverage of subjects outside the W3C standards, such as the different types of validating tools and parsers or other XML schema languages such as RELAXNG from Oasis. You will have to go elsewhere for a fuller understanding of the entire 'XML Universe'. The only real gripe I have with this book is its constant use of Microsoft in the examples, which grates on this long-time Linux user. Of course, its from Microsoft Press, so what can you expect. Fortunately XML itself is non-OS specific, so nothing in this book is really Microsoft-centric. All in all, a great reference.</Content>
+						</Review>
+						<Review>
+							<ASIN>0735611831</ASIN>
+							<Rating>5</Rating>
+							<HelpfulVotes>8</HelpfulVotes>
+							<CustomerId>A2RQ4XN90FLXXM</CustomerId>
+							<TotalVotes>9</TotalVotes>
+							<Date>2003-04-30</Date>
+							<Summary>Great guide to XML!</Summary>
+							<Content>Every administrator, developer or user working with XML should buy this book or at least browse through its pages to see what a book on XML should be like. I can't tell you how many bad XML books I went through to get to this one book that I find truly useful. Now, not only is the book useful, it is also the only book that I've found (and I've bought 11 XML books) that is as accurate as it is good. One key reason could be that the author went through the trouble of refering to the XML specifications during the writing and ensuring coverage of the final versions of these specifications. In many other books I have, the authors claim to have used the specifications but you can clearly tell that they either did and didn't understand the spec (which I can't point fault at as the specs are gibberish to me) or they meant to and just never bothered to follow through. Either way, those types of authors should never have written a book on XML.&lt;p&gt;The XML Pocket book covers:&lt;p&gt;XML &lt;p&gt;XML DTDs&lt;br&gt;XML Schema&lt;br&gt;XML Namespaces&lt;br&gt;XML Links&lt;br&gt;XSL/XSLT&lt;br&gt;XPath&lt;p&gt;And as in Stanek's other Pocket Consultant's the book manages to do in 400 pages what no other books I've seen can: it provides comprehensive, clearly detailed, useful information. Someone should speak to Stanek's publisher. They could have sold this as two books. One covering XML, DTDs and XML Schemas and another covering namespaces, XSL/XSLT, XLink and XPath. These two books at 200 pages would still have more information than the other bloated books on the market and could have been priced the same as the current volume for 2x the money--I would have paid it. Heck, I paid nearly 2x the current cover price for O'Reilly's poorly done book on XSLT.&lt;p&gt;In closing, I think you should buy the pocket consultant because it's a no nonsense, clear, detailed, easy to use resource. I'm very happy with my book.</Content>
+						</Review>
+					</CustomerReviews>
+					<EditorialReviews>
+						<EditorialReview>
+							<Source>Book Description</Source>
+							<Content>Here's the eminently practical, pocket-sized reference for Web developers and IT professionals working with XML, XSL, and XSLT. This portable guide delivers a brisk overview of XML, and quickly proceeds to such topics as DTD components, document modeling, document formatting, and XML standards-including XSL, XLink, and XPath.</Content>
+						</EditorialReview>
+					</EditorialReviews>
+					<SimilarProducts>
+						<SimilarProduct>
+							<ASIN>0201740958</ASIN>
+							<Title>Essential XML Quick Reference: A Programmer's Reference to XML,  XPath, XSLT, XML Schema, SOAP, and More</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0764547593</ASIN>
+							<Title>XML Weekend Crash Course (with CD-ROM)</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0130655678</ASIN>
+							<Title>Definitive XML Schema</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0471422541</ASIN>
+							<Title>XML in 60 Minutes a Day</Title>
+						</SimilarProduct>
+						<SimilarProduct>
+							<ASIN>0764543814</ASIN>
+							<Title>XSLT : Programmer's Reference (Programmer to Programmer)</Title>
+						</SimilarProduct>
+					</SimilarProducts>
+					<BrowseNodes>
+						<BrowseNode>
+							<BrowseNodeId>21</BrowseNodeId>
+							<Name>Reference</Name>
+							<Children>
+								<BrowseNode>
+									<BrowseNodeId>11444</BrowseNodeId>
+									<Name>Almanacs &amp; Yearbooks</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11448</BrowseNodeId>
+									<Name>Atlases &amp; Maps</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>1038326</BrowseNodeId>
+									<Name>Books on CD</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>2313</BrowseNodeId>
+									<Name>Books on Cassette</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11461</BrowseNodeId>
+									<Name>Business Skills</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>67240</BrowseNodeId>
+									<Name>Calendars</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>2572</BrowseNodeId>
+									<Name>Careers</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11626</BrowseNodeId>
+									<Name>Catalogs &amp; Directories</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11472</BrowseNodeId>
+									<Name>Consumer Guides</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11475</BrowseNodeId>
+									<Name>Dictionaries &amp; Thesauruses</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11628</BrowseNodeId>
+									<Name>Education</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11713</BrowseNodeId>
+									<Name>Encyclopedias</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11761</BrowseNodeId>
+									<Name>Etiquette</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11773</BrowseNodeId>
+									<Name>Foreign Languages</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11871</BrowseNodeId>
+									<Name>Fun Facts</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11880</BrowseNodeId>
+									<Name>Genealogy</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>408268</BrowseNodeId>
+									<Name>General</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>300955</BrowseNodeId>
+									<Name>Large Print</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>10975</BrowseNodeId>
+									<Name>Law</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11891</BrowseNodeId>
+									<Name>Publishing &amp; Books</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11902</BrowseNodeId>
+									<Name>Quotations</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>301751</BrowseNodeId>
+									<Name>Spanish-Language Reference</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>1099190</BrowseNodeId>
+									<Name>Study Guides</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11904</BrowseNodeId>
+									<Name>Test Prep Central</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>11970</BrowseNodeId>
+									<Name>Words &amp; Language</Name>
+								</BrowseNode>
+								<BrowseNode>
+									<BrowseNodeId>12015</BrowseNodeId>
+									<Name>Writing</Name>
+								</BrowseNode>
+							</Children>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>1000</BrowseNodeId>
+									<Name>Subjects</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>283155</BrowseNodeId>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>3565</BrowseNodeId>
+							<Name>Web Site Design</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>3554</BrowseNodeId>
+									<Name>Internet Commerce</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>3510</BrowseNodeId>
+											<Name>Web Development</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>5</BrowseNodeId>
+													<Name>Computers &amp; Internet</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>1000</BrowseNodeId>
+															<Name>Subjects</Name>
+															<Ancestors>
+																<BrowseNode>
+																	<BrowseNodeId>283155</BrowseNodeId>
+																</BrowseNode>
+															</Ancestors>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>4030</BrowseNodeId>
+							<Name>HTML - General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>4021</BrowseNodeId>
+									<Name>Web Programming</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>3839</BrowseNodeId>
+											<Name>Programming</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>5</BrowseNodeId>
+													<Name>Computers &amp; Internet</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>1000</BrowseNodeId>
+															<Name>Subjects</Name>
+															<Ancestors>
+																<BrowseNode>
+																	<BrowseNodeId>283155</BrowseNodeId>
+																</BrowseNode>
+															</Ancestors>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>4052</BrowseNodeId>
+							<Name>XML</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>285857</BrowseNodeId>
+									<Name>Extensible Languages</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>3839</BrowseNodeId>
+											<Name>Programming</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>5</BrowseNodeId>
+													<Name>Computers &amp; Internet</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>1000</BrowseNodeId>
+															<Name>Subjects</Name>
+															<Ancestors>
+																<BrowseNode>
+																	<BrowseNodeId>283155</BrowseNodeId>
+																</BrowseNode>
+															</Ancestors>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>171114</BrowseNodeId>
+							<Name>General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>3839</BrowseNodeId>
+									<Name>Programming</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>5</BrowseNodeId>
+											<Name>Computers &amp; Internet</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>1000</BrowseNodeId>
+													<Name>Subjects</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>283155</BrowseNodeId>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>411314</BrowseNodeId>
+							<Name>General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>3600</BrowseNodeId>
+									<Name>Scripting &amp; Programming</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>3510</BrowseNodeId>
+											<Name>Web Development</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>5</BrowseNodeId>
+													<Name>Computers &amp; Internet</Name>
+													<Ancestors>
+														<BrowseNode>
+															<BrowseNodeId>1000</BrowseNodeId>
+															<Name>Subjects</Name>
+															<Ancestors>
+																<BrowseNode>
+																	<BrowseNodeId>283155</BrowseNodeId>
+																</BrowseNode>
+															</Ancestors>
+														</BrowseNode>
+													</Ancestors>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+						<BrowseNode>
+							<BrowseNodeId>657762</BrowseNodeId>
+							<Name>General</Name>
+							<Ancestors>
+								<BrowseNode>
+									<BrowseNodeId>5</BrowseNodeId>
+									<Name>Computers &amp; Internet</Name>
+									<Ancestors>
+										<BrowseNode>
+											<BrowseNodeId>1000</BrowseNodeId>
+											<Name>Subjects</Name>
+											<Ancestors>
+												<BrowseNode>
+													<BrowseNodeId>283155</BrowseNodeId>
+												</BrowseNode>
+											</Ancestors>
+										</BrowseNode>
+									</Ancestors>
+								</BrowseNode>
+							</Ancestors>
+						</BrowseNode>
+					</BrowseNodes>
+					<ListmaniaLists>
+						<ListmaniaList>
+							<ListId>3TB5Q1P684ODC</ListId>
+							<ListName>Tech books I find invaluable or want</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>2Z4T2V892M0AO</ListId>
+							<ListName>Useful for Java, XML, etc.</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>38KRWOMOEE7VT</ListId>
+							<ListName>.NET Technologies with C# - in order from easy to advanced</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>VTXPUH3SG15E</ListId>
+							<ListName>Windows .NET Development Tools</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>1AP491RYX7T8X</ListId>
+							<ListName>SQL Server: The stuff I use</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>2S3PXOB81MKTX</ListId>
+							<ListName>XML books I own and use</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>6MVTJFIW6X7E</ListId>
+							<ListName>Best XML Books</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>B1MX02ZBGUVB</ListId>
+							<ListName>.Net, XML, SQL Server &amp; other books i want/own/use - List 1</ListName>
+						</ListmaniaList>
+						<ListmaniaList>
+							<ListId>R6LHKP5IPYHQ</ListId>
+							<ListName>Kevin's SQL Server 2K Developer/DBA List</ListName>
+						</ListmaniaList>
+					</ListmaniaLists>
+				</Item>
+			</Items>
+		</ItemSearchResponse>
+	</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

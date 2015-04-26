@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" lang="en">
+   <head>
+      <title>Scamazon.com--Earth's Smallest Selection</title>
+   </head>
+   <body>
+      <div style="float: right;">
+         <a href="http://localhost:8080/scamazon/servlet/Catalog">Show  Catalog</a>
+      </div>
+      <div style="float: right;">
+         <a href="http://localhost:8080/scamazon/servlet/Cart?CheckOut=checkout">Checkout</a>
+      </div>
+      <div align="center">
+         <table border="1" width="700">
+            <tr bgcolor="#9acd32">
+               <th>Item </th>
+               <th>Type</th>
+               <th>Label Description</th>
+               <th> Price  USD</th>
+               <th>    Quantity </th>
+               <th>  Add More </th>
+               <th>  Remove </th>
+            </tr>
+            <tr>
+               <td width="100"/>
+               <td width="100"/>
+               <td width="100"/>
+               <td width="100"/>
+               <td width="100"/>
+               <td width="100">
+                  <form>
+                     <input type="number" name="" min="0" max="100" step="1" value="0"/>
+                     <input type="submit" method="get" action="http://localhost:8080/scamazon/servlet/Cart?labelKey="/>
+                  </form>
+               </td>
+               <td width="100">
+                  <a href="http://localhost:8080/scamazon/servlet/Cart?Remove=">Remove</a>
+               </td>
+            </tr>
+         </table>
+      </div>
+   </body>
+</html>

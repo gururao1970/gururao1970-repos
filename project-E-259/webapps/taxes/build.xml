@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- ===========================================================================
+     Buildfile for Project 4, version 8.0
+     Computer Science E-259
+
+     This buildfile "shipped" in the root of the following hierarchy.
+
+     project4-8.0/
+       conf/
+       src/
+         com/
+           amazon/
+             soap/
+               AWSECommerceService/
+         cscie259/
+           project4/
+             scamazon/
+             warehouse/
+       temp/
+       webapps/
+         ROOT/
+           docs/
+             com/
+               amazon/
+                 soap/
+                   AWSECommerceService/
+             cscie259/
+               project4/
+                 scamazon/
+                 warehouse/
+           WEB-INF/
+         scamazon/
+           dtd/
+           images/
+           WEB-INF/
+             lib/
+           xml/
+             cache/
+           xsd/
+           xsl/
+         warehouse/
+           dtd/
+           images/
+           WEB-INF/
+           xml/
+           xsd/
+           xsl/
+    
+     To compile Scamazon.com and its warehouse, execute `ant compile` or 
+     `ant` from within project4-8.0/.
+
+     To generate Javadoc for your code (in project4-8.0/webapps/ROOT/docs/),
+     execute `ant javadoc` from within project4-8.0/.
+
+     To publish Javadoc for your code at
+     http://www.people.fas.harvard.edu/~username/cscie259/javadoc/project4-8.0/,
+     where username is your FAS username, execute `ant publish-javadoc` 
+     from within project4-8.0/.
+
+     To delete your bytecodes as well as Tomcat's logs and runtime
+     directories (plus Axis's runtime directories, if any),
+     execute `ant clean` from within project4-8.0/.
+============================================================================ -->
+
+<project name="project4" default="compile" basedir=".">
+
+    <description>Project 4</description>
+ 
+    <!-- set global properties for this build -->
+    <property name="attachments" 
+              location="webapps/warehouse/WEB-INF/attachments"/>
+    <property name="conf" location="conf"/>
+    <property name="docs" location="webapps/ROOT/docs"/>
+    <property name="jwsClasses" 
+              location="webapps/warehouse/WEB-INF/jwsClasses"/>
+    <property name="logs" location="logs"/>
+    <property name="servlets" location="webapps/scamazon/WEB-INF/classes"/>
+    <property name="services" location="webapps/warehouse/WEB-INF/classes"/>
+    <property name="src" location="src"/>
+    <property name="temp" location="temp"/>
+    <property name="work" location="work"/>
+    <property name="JAVAHOME" location="C:\Program Files\Java\jdk1.8.0_25\jre\lib"/>
+   
+
+    <target name="echoVariables">
+     <property environment="my_env" />
+    <echo>
+      Here are sample environment variables in my operating system:
+      ${my_env.classpath}
+      ${my_env.CommonProgramFiles}
+      ${my_env.CommonProgramFiles(x86)}
+      ${my_env.CommonProgramW6432}
+      ${my_env.java_home}
+      ${JAVAHOME}
+      ${classpath}
+   </echo>
+</target>
+<path id="classpath">
+    <fileset dir="C:\Program Files\Java\jdk1.8.0_25\jre\lib" includes="*.jar"/>
+ </path>
+    
+
+<!-- AXIX -->
+      <target name="axixcode"         
+            description="build Project Axis">
+        <java classpathref="classpath" "org.apache.axis.wsdl.WSDL2Java" "http://localhost:8080/taxes/TaxService.jws?wsdl"/>           
+    </target>
+
+</project>

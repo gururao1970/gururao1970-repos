@@ -1,0 +1,55 @@
+<!-- ===========================================================================
+     Configuration file for Project 4, version 8.0
+     Computer Science E-259
+
+     Be sure to set the value of the Server element's port
+     attribute to an integer between 1024 and 65535, inclusive.
+     Of course, that port cannot already be in use.  Nor can it
+     be the same value you choose for the Connector element's port.
+
+     Also be sure to set the value of the Connector element's port
+     attribute to an integer between 1024 and 65535, inclusive.
+     Of course, that port cannot already be in use.  Nor can it
+     be the same value you choose for the Server element's port.
+============================================================================ -->
+
+<Server port="" shutdown="SHUTDOWN">
+
+  <Listener className="org.apache.catalina.core.JasperListener" />
+
+  <GlobalNamingResources>
+    <Resource name="UserDatabase" auth="Container"
+              type="org.apache.catalina.UserDatabase"
+              description="User database that can be updated and saved"
+              factory="org.apache.catalina.users.MemoryUserDatabaseFactory"
+              pathname="conf/tomcat-users.xml" />
+  </GlobalNamingResources>
+
+  <Service name="Catalina">
+    <Connector port="" protocol="HTTP/1.1" 
+               maxThreads="150" connectionTimeout="20000" />
+    <Engine name="Catalina" defaultHost="localhost">
+      <Realm className="org.apache.catalina.realm.UserDatabaseRealm"
+             resourceName="UserDatabase"/>
+      <Host name="localhost" appBase="webapps"
+            unpackWARs="true" autoDeploy="true"
+            xmlValidation="false" xmlNamespaceAware="false">
+        <Context path="" 
+                 docBase="ROOT" debug="0" reloadable="true" 
+                 privileged="true">
+          <Manager pathname=""/>
+        </Context>
+        <Context path="/scamazon" 
+                 docBase="scamazon" debug="0" reloadable="true"
+                 privileged="true">
+          <Manager pathname=""/>
+        </Context>
+        <Context path="/warehouse" 
+                 docBase="warehouse" debug="0" reloadable="true"
+                 privileged="true">
+          <Manager pathname=""/>
+        </Context>
+      </Host>
+    </Engine>
+  </Service>
+</Server>

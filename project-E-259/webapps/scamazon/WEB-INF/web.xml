@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- ===========================================================================
+     Configuration file for Project 4, version 7.0
+     Computer Science E-259
+============================================================================ -->
+
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_5.xsd"
+    version="2.5">
+
+    <!-- servlets -->
+    
+    <servlet>
+        <servlet-name>Catalog</servlet-name>
+        <servlet-class>cscie259.project4.scamazon.Catalog</servlet-class>
+    </servlet>
+
+    
+    <servlet>
+        <servlet-name>Cart</servlet-name>
+        <servlet-class>cscie259.project4.scamazon.Cart</servlet-class>
+    </servlet>
+    
+    <!-- servlets' mappings -->
+    <servlet-mapping>
+        <servlet-name>Catalog</servlet-name>
+        <url-pattern>/servlet/Catalog</url-pattern>
+    </servlet-mapping>
+
+     <servlet-mapping>
+        <servlet-name>Cart</servlet-name>
+        <url-pattern>/servlet/Cart</url-pattern>
+    </servlet-mapping>
+   
+   
+
+</web-app>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Scamazon.com's catalog -->
+
+<!-- Any references to the local filesystem are resolved
+     with respect to project4-8.0/. -->
+
+<items>
+ <item>
+    <itemKey>xxxxx</itemKey>
+    <itemDes>Regulation wooden bat</itemDes>
+    <LabelDes>Type</LabelDes>
+    <description>Tee Ball</description>
+    <price>18.00</price>
+    <quantity>1</quantity>
+</item>
+
+</items>
+

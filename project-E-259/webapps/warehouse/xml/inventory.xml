@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- the warehouse's inventory -->
+
+<!-- Any references to the local filesystem in a DTD are resolved
+     with respect to project4-8.0/. -->
+
+<inventory>
+  <item key="i00042">
+    <types>
+      <type key="t5635853" quantity="99"/>
+      <type key="t1933042" quantity="99"/>
+      <type key="t8087405" quantity="99"/>
+      <type key="t5850093" quantity="0"/>
+    </types>
+  </item>
+  <item key="i00043">
+    <types>
+      <type key="t4798730" quantity="99"/>
+      <type key="t3502915" quantity="99"/>
+      <type key="t8959624" quantity="0"/>
+      <type key="t8228401" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00044">
+    <types>
+      <type key="t7466048" quantity="99"/>
+      <type key="t1741081" quantity="0"/>
+    </types>
+  </item>
+  <item key="i00045">
+    <types>
+      <type key="t8589434" quantity="99"/>
+      <type key="t7105014" quantity="99"/>
+      <type key="t5135350" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00046">
+    <types>
+      <type key="t914029" quantity="99"/>
+      <type key="t3644520" quantity="0"/>
+      <type key="t1473128" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00047">
+    <types>
+      <type key="t1658986" quantity="0"/>
+      <type key="t9885250" quantity="99"/>
+      <type key="t4456923" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00048">
+    <types>
+      <type key="t1190832" quantity="99"/>
+      <type key="t46693" quantity="99"/>
+      <type key="t89114" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00005">
+    <types>
+      <type key="t12513" quantity="99"/>
+      <type key="t5635853" quantity="0"/>
+      <type key="t1933042" quantity="99"/>
+      <type key="t8087405" quantity="99"/>
+      <type key="t5850093" quantity="99"/>
+      <type key="t4798730" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00006">
+    <types>
+      <type key="t3502915" quantity="99"/>
+      <type key="t8959624" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00010">
+    <types>
+      <type key="t8228401" quantity="99"/>
+      <type key="t7466048" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00011">
+    <types>
+      <type key="t1741081" quantity="99"/>
+      <type key="t8589434" quantity="99"/>
+      <type key="t7105014" quantity="0"/>
+    </types>
+  </item>
+  <item key="i00013">
+    <types>
+      <type key="t5135350" quantity="99"/>
+      <type key="t3039949" quantity="99"/>
+      <type key="t149846" quantity="99"/>
+      <type key="t914029" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00014">
+    <types>
+      <type key="t3644520" quantity="99"/>
+      <type key="t1473128" quantity="99"/>
+      <type key="t1658986" quantity="99"/>
+      <type key="t9885250" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00015">
+    <types>
+      <type key="t4456923" quantity="99"/>
+      <type key="t1190832" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00016">
+    <types>
+      <type key="t46693" quantity="99"/>
+      <type key="t89114" quantity="99"/>
+      <type key="t3778802" quantity="99"/>
+      <type key="t5316630" quantity="0"/>
+    </types>
+  </item>
+  <item key="i00017">
+    <types>
+      <type key="t5711844" quantity="99"/>
+      <type key="t6017640" quantity="99"/>
+      <type key="t6071657" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00018">
+    <types>
+      <type key="t1662343" quantity="99"/>
+      <type key="t6630451" quantity="0"/>
+      <type key="t4507889" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00019">
+    <types>
+      <type key="t3521226" quantity="99"/>
+      <type key="t570391" quantity="99"/>
+      <type key="t6076846" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00020">
+    <types>
+      <type key="t7833186" quantity="99"/>
+      <type key="t8026063" quantity="99"/>
+      <type key="t5198828" quantity="99"/>
+      <type key="t3019501" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00021">
+    <types>
+      <type key="t8759728" quantity="99"/>
+      <type key="t7266762" quantity="99"/>
+      <type key="t9559008" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00022">
+    <types>
+      <type key="t9257179" quantity="0"/>
+      <type key="t5393536" quantity="0"/>
+      <type key="t1423383" quantity="0"/>
+      <type key="t4620808" quantity="0"/>
+    </types>
+  </item>
+  <item key="i00023">
+    <types>
+      <type key="t2353282" quantity="99"/>
+      <type key="t8622394" quantity="99"/>
+      <type key="t2096011" quantity="99"/>
+      <type key="t7796564" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00024">
+    <types>
+      <type key="t8436537" quantity="99"/>
+      <type key="t9967956" quantity="99"/>
+      <type key="t9996948" quantity="99"/>
+      <type key="t6114994" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00025">
+    <types>
+      <type key="t3924375" quantity="99"/>
+      <type key="t2662130" quantity="99"/>
+      <type key="t2972808" quantity="99"/>
+      <type key="t8401440" quantity="99"/>
+      <type key="t237434" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00026">
+    <types>
+      <type key="t3758660" quantity="99"/>
+      <type key="t926237" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00027">
+    <types>
+      <type key="t6772057" quantity="0"/>
+      <type key="t562151" quantity="99"/>
+      <type key="t87893" quantity="99"/>
+      <type key="t9187902" quantity="99"/>
+      <type key="t2758873" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00028">
+    <types>
+      <type key="t2728965" quantity="99"/>
+      <type key="t5879086" quantity="99"/>
+      <type key="t6911832" quantity="99"/>
+      <type key="t8376110" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00029">
+    <types>
+      <type key="t7264931" quantity="99"/>
+      <type key="t4849391" quantity="99"/>
+      <type key="t2053591" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00030">
+    <types>
+      <type key="t7437361" quantity="99"/>
+      <type key="t4684591" quantity="99"/>
+      <type key="t4579608" quantity="0"/>
+      <type key="t9491562" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00031">
+    <types>
+      <type key="t7444380" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00032">
+    <types>
+      <type key="t1082797" quantity="99"/>
+      <type key="t5990478" quantity="99"/>
+      <type key="t3852351" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00033">
+    <types>
+      <type key="t7350078" quantity="99"/>
+      <type key="t6089663" quantity="99"/>
+      <type key="t5724052" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00034">
+    <types>
+      <type key="t3613392" quantity="99"/>
+      <type key="t1515549" quantity="99"/>
+      <type key="t2251045" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00035">
+    <types>
+      <type key="t4251534" quantity="99"/>
+      <type key="t8028809" quantity="99"/>
+      <type key="t5171056" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00036">
+    <types>
+      <type key="t9899899" quantity="99"/>
+      <type key="t7515488" quantity="99"/>
+      <type key="t3455611" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00037">
+    <types>
+      <type key="t1689810" quantity="99"/>
+      <type key="t6573077" quantity="0"/>
+    </types>
+  </item>
+  <item key="i00038">
+    <types>
+      <type key="t4918973" quantity="99"/>
+      <type key="t635395" quantity="99"/>
+      <type key="t6997589" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00039">
+    <types>
+      <type key="t5048067" quantity="99"/>
+      <type key="t1474960" quantity="99"/>
+      <type key="t9495834" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00040">
+    <types>
+      <type key="t1415754" quantity="99"/>
+      <type key="t9051180" quantity="99"/>
+      <type key="t6928922" quantity="99"/>
+    </types>
+  </item>
+  <item key="i00041">
+    <types>
+      <type key="t3030488" quantity="99"/>
+      <type key="t4265572" quantity="99"/>
+      <type key="t703757" quantity="0"/>
+    </types>
+  </item>
+</inventory>
